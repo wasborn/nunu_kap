@@ -95,7 +95,7 @@ helpMessage ="""        =====[C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̲̅�
 helo=""
 
 KAC=[cl,ki,kk,kc]
-mid = cl.getProfile=["uda539eeaf99baac3a3bf45c9d92f1cad",]
+mid = cl=["uda539eeaf99baac3a3bf45c9d92f1cad",]
 Amid = kk.getProfile().mid
 Bmid = ki.getProfile().mid
 Cmid = kc.getProfile().mid
