@@ -94,12 +94,12 @@ helpMessage ="""        =====[C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̲̅�
 """
 helo=""
 
-KAC=[cl,ki,kk,kc]["uda539eeaf99baac3a3bf45c9d92f1cad",]
+KAC=[cl,ki,kk,kc]
 mid = cl.getProfile().mid
-Amid = kk.getProfile().mid["uda539eeaf99baac3a3bf45c9d92f1cad",]
-Bmid = ki.getProfile().mid["uda539eeaf99baac3a3bf45c9d92f1cad",]
-Cmid = kc.getProfile().mid["uda539eeaf99baac3a3bf45c9d92f1cad",]
-Bots = [mid,Amid,Bmid,Cmid,]["uda539eeaf99baac3a3bf45c9d92f1cad",]
+Amid = kk.getProfile().mid
+Bmid = ki.getProfile().mid
+Cmid = kc.getProfile().mid
+Bots = [mid,Amid,Bmid,Cmid,]
 admin = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ID:0647796747",]
 staff = [""]
 adminMID = [""]
