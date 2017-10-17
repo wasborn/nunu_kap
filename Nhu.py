@@ -119,8 +119,14 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":False,
-    "cName":"Nhu",
-    "cNames":"",
+    "cName":"",
+    "cNames":"〖✟ŋีಖଏדЮ۞নმ௮✫₷ণજัゆ۩〗
+↜«↜«↜««✾»»↝»↝»↝
+۩✟ໄ௮่௮ิთਙԳのਙ ۞ ໄ௮่જӘபլのਙีઈ.۩
+.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*
+Әध่ךլਙี้धחՁ่ך௮ิთਙଣ้ךのิஇनะււnଏ श้ךଏமढัსიุ
+
+http://line.me/ti/p/ShgslAPyYS",
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
