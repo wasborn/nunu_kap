@@ -99,8 +99,8 @@ mid = cl.getProfile().mid
 Amid = kk.getProfile().mid
 Bmid = ki.getProfile().mid
 Cmid = kc.getProfile().mid
-บอท = [,mid , ท่ามกลาง , Bmid , Cmid ,]
-admin = [ "u2c7f708769a2eb35d9ae9f73cd366e0b" ,]
+bots = [,mid , Amid , Bmid , Cmid ,]
+admin = ["u2c7f708769a2eb35d9ae9f73cd366e0b",]
 staff = [""]
 adminMID = [ "" ]
 
