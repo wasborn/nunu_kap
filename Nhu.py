@@ -99,7 +99,7 @@ mid = cl.getProfile().mid
 Amid = kk.getProfile().mid
 Bmid = ki.getProfile().mid
 Cmid = kc.getProfile().mid
-Bots = [mid ,", uda539eeaf99baac3a3bf45c9d92f1cad , " , Bmid , Cmid,]
+Bots = [mid , Amid , Bmid , Cmid,]
 admin = [ "u2c7f708769a2eb35d9ae9f73cd366e0b" ,]
 staff = [""]
 adminMID = [ "" ]
@@ -286,7 +286,7 @@ def bot(op):
                 cl.inviteIntoGroup(msg.to,[midd])
             elif "Mabot" == msg.text:
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': kimid}
+                msg.contentMetadata = {'mid':","uda539eeaf99baac3a3bf45c9d92f1cad"," kimid}
                 cl.sendMessage(msg) 
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ki2mid}
@@ -305,7 +305,7 @@ def bot(op):
                 cl.sendMessage(msg)
             elif "Kb1" == msg.text:
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': kimid}
+                msg.contentMetadata = {'mid':","uda539eeaf99baac3a3bf45c9d92f1cad"," kimid}
                 ki.sendMessage(msg)
             elif "Kb2" == msg.text:
                 msg.contentType = 13
