@@ -346,7 +346,7 @@ def bot(op):
                 msg.contentType = 9,
                 msg.contentMetadata={'PRDID': 'uda539eeaf99baac3a3bf45c9d92f1cad',
                                     'PRDTYPE': 'THEME',
-                                    'MSGTPL: '3'}
+                                    'MSGTPL: '2'}
                 msg.text = None
                 ki2.sendMessage(msg)
 
@@ -354,14 +354,14 @@ def bot(op):
                 msg.contentType = 9
                 msg.contentMetadata={'PRDID': 'uda539eeaf99baac3a3bf45c9d92f1cad',
                                     'PRDTYPE': 'THEME',
-                                    'MSGTPL': '4'}
+                                    'MSGTPL': '3'}
                 msg.text = None
                 ki3.sendMessage(msg)
             elif msg.text in ["Bot4 Gift","Bot4 gift"]:
                 msg.contentType = 9
                 msg.contentMetadata={'PRDID': 'uda539eeaf99baac3a3bf45c9d92f1cad',
                                     'PRDTYPE': 'THEME',
-                                    'MSGTPL': '5'}
+                                    'MSGTPL': '4'}
                 msg.text = None
                 ki4.sendMessage(msg)
             
