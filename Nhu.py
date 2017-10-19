@@ -343,7 +343,7 @@ def bot(op):
                 cl.sendMessage(msg)
 
             elif msg.text in ["Bot2 Gift","Bot2 gift"]:
-                msg.contentType = 9': 'THEME',
+                msg.contentType = 9': ','THEME',
                                     'MSGTPL': '3'}
                 msg.text = None
                 ki2.sendMessage(msg)
