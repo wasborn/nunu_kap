@@ -343,8 +343,10 @@ def bot(op):
                 cl.sendMessage(msg)
 
             elif msg.text in ["Bot2 Gift","Bot2 gift"]:
-                msg.contentType = 9': ','THEME',
-                                    'MSGTPL': '3'}
+                msg.contentType = 9,
+                msg.contentMetadata={'PRDID': 'uda539eeaf99baac3a3bf45c9d92f1cad',
+                                    'PRDTYPE': 'THEME',
+                                    'MSGTPL: '3'}
                 msg.text = None
                 ki2.sendMessage(msg)
 
