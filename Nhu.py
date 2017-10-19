@@ -99,7 +99,7 @@ mid = cl.getProfile().mid
 Amid = kk.getProfile().mid
 Bmid = ki.getProfile().mid
 Cmid = kc.getProfile().mid
-Bots = [mid , Amid , Bmid , Cmid,]
+Bots = [",uda539eeaf99baac3a3bf45c9d92f1cad ,", Amid , Bmid , Cmid,]
 admin = [ "u2c7f708769a2eb35d9ae9f73cd366e0b" ,]
 staff = [""]
 adminMID = [ "" ]
@@ -180,7 +180,7 @@ def bot(op):
             msg = op.message
             if msg.toType == 0:
                 msg.to = msg.from_
-                if msg.from_ == "u1b3ce3c7bfbbc5f4b5f2f6ded16ba3a5":
+                if msg.from_ == "uda539eeaf99baac3a3bf45c9d92f1cad ":
                     if "join:" in msg.text:
                         list_ = msg.text.split(":")
                         try:
@@ -286,7 +286,7 @@ def bot(op):
                 cl.inviteIntoGroup(msg.to,[midd])
             elif "Mabot" == msg.text:
                 msg.contentType = 13
-                msg.contentMetadata = {'mid':","uda539eeaf99baac3a3bf45c9d92f1cad"," kimid}
+                msg.contentMetadata = {'mid': kimid}
                 cl.sendMessage(msg) 
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ki2mid}
@@ -305,7 +305,7 @@ def bot(op):
                 cl.sendMessage(msg)
             elif "Kb1" == msg.text:
                 msg.contentType = 13
-                msg.contentMetadata = {'mid':","uda539eeaf99baac3a3bf45c9d92f1cad"," kimid}
+                msg.contentMetadata = {'mid': kimid}
                 ki.sendMessage(msg)
             elif "Kb2" == msg.text:
                 msg.contentType = 13
@@ -329,37 +329,35 @@ def bot(op):
                 ki6.sendMessage(msg)
             elif msg.text in ["Bot1 Gift","Bot1 gift"]:
                 msg.contentType = 9
-                msg.contentMetadata={'PRDID': '3b92ccf5-54d3-4765-848f-c9ffdc1da020',
+                msg.contentMetadata={'PRDID': 'uda539eeaf99baac3a3bf45c9d92f1cad',
                                     'PRDTYPE': 'THEME',
                                     'MSGTPL': '2'}
                 msg.text = None
                 ki.sendMessage(msg)
             elif msg.text in ["I Gift","i gift"]:
                 msg.contentType = 9
-                msg.contentMetadata={'PRDID': '3b92ccf5-54d3-4765-848f-c9ffdc1da020',
+                msg.contentMetadata={'PRDID': 'uda539eeaf99baac3a3bf45c9d92f1cad',
                                     'PRDTYPE': 'THEME',
                                     'MSGTPL': '3'}
                 msg.text = None
                 cl.sendMessage(msg)
 
             elif msg.text in ["Bot2 Gift","Bot2 gift"]:
-                msg.contentType = 9
-                msg.contentMetadata={'PRDID': '3b92ccf5-54d3-4765-848f-c9ffdc1da020',
-                                    'PRDTYPE': 'THEME',
+                msg.contentType = 9E': 'THEME',
                                     'MSGTPL': '3'}
                 msg.text = None
                 ki2.sendMessage(msg)
 
             elif msg.text in ["Bot3 Gift","Bot3 gift"]:
                 msg.contentType = 9
-                msg.contentMetadata={'PRDID': '3b92ccf5-54d3-4765-848f-c9ffdc1da020',
+                msg.contentMetadata={'PRDID': 'uda539eeaf99baac3a3bf45c9d92f1cad',
                                     'PRDTYPE': 'THEME',
                                     'MSGTPL': '4'}
                 msg.text = None
                 ki3.sendMessage(msg)
             elif msg.text in ["Bot4 Gift","Bot4 gift"]:
                 msg.contentType = 9
-                msg.contentMetadata={'PRDID': '3b92ccf5-54d3-4765-848f-c9ffdc1da020',
+                msg.contentMetadata={'PRDID': 'uda539eeaf99baac3a3bf45c9d92f1cad',
                                     'PRDTYPE': 'THEME',
                                     'MSGTPL': '5'}
                 msg.text = None
