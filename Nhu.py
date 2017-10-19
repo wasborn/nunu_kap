@@ -118,7 +118,7 @@ wait = {
     "commentBlack":{},
     "wblack":False,
     "dblack":False,
-    "clock":False,
+    "clock":True,
     "cName":"",
     "cNames":"Nunu",
     "blacklist":{},
