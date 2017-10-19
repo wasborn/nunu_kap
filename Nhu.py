@@ -331,14 +331,14 @@ def bot(op):
                 msg.contentType = 9
                 msg.contentMetadata={'PRDID': 'uda539eeaf99baac3a3bf45c9d92f1cad',
                                     'PRDTYPE': 'THEME',
-                                    'MSGTPL': '2'}
+                                    'MSGTPL': '1'}
                 msg.text = None
                 ki.sendMessage(msg)
             elif msg.text in ["I Gift","i gift"]:
                 msg.contentType = 9
                 msg.contentMetadata={'PRDID': 'uda539eeaf99baac3a3bf45c9d92f1cad',
                                     'PRDTYPE': 'THEME',
-                                    'MSGTPL': '3'}
+                                    'MSGTPL': '2'}
                 msg.text = None
                 cl.sendMessage(msg)
 
