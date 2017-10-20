@@ -9,10 +9,6 @@ cl = LINETCR.LINE()
 cl.login(qr=True)
 cl.loginResult()
 
-ki = LINETCR.LINE()
-ki.login(qr=True)
-ki loginResult ()
-
 kk = LINETCR.LINE()
 kk.login(pr=True)
 kk loginResult ()
