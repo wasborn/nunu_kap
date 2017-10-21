@@ -13,14 +13,6 @@ ki = LINETCR.LINE()
 ki.login(pr=True)
 ki.loginResult()
 
-kk = LINETCR.LINE()
-kk.login(pr=True)
-kk loginResult ()
-
-kc = LINETCR.LINE()
-kc.login(pr=True)
-kc loginResult ()
-
 ki = kk = kc = ky = cl 
 
 print u"login success"
