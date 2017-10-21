@@ -103,10 +103,10 @@ mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
-Bots = ["uda539eeaf99baac3a3bf45c9d92f1cad " , Amid,Bmid,Cmid,]
+Bots = [ mid, Amid,Bmid,Cmid,]
 admin = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
 staff = [""]
-adminMID = [""]
+adminMID = ["uda539eeaf99baac3a3bf45c9d92f1cad"]
 
 wait = {
     'contact':False,
