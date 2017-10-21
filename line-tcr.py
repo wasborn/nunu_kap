@@ -5,10 +5,6 @@ from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
 import time,random,sys,json,codecs,threading,glob
 
-#kk = LINETCR.LINE()
-#kk.= login(qr = True)
-#kk.= loginReuslt()
-
 cl = LINETCR.LINE()
 cl.login(qr=True)
 cl.loginResult()
@@ -17,8 +13,7 @@ ki = LINETCR.LINE()
 ki.login(pr=True)
 ki.loginResult()
 
-kk = kc = ks = ka = ki
-kd = ko = ke = ku = cl
+ki = kk = kc = ky = cl
 
 print u"login success"
 reload(sys)
