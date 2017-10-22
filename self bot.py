@@ -107,7 +107,7 @@ Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 
 Bots=[mid,Amid,Bmid,Cmid]
-admin=[""]
+admin=["u2c7f708769a2eb35d9ae9f73cd366e0b"]
 wait = {
     'contact':True,
     'autoJoin':True,
