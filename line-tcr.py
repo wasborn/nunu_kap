@@ -113,7 +113,7 @@ wait = {
     'autoAdd':True,
     'message':"Owner.Nunu:http://line.me/ti/p/ShgslAPyYS ",
     "lang":"JP",
-    "comment":"Owner.〖ŋีಖଏדЮ✫নმ௮₷ণજัゆ۩〗:http://line.me/ti/p/ShgslAPyYS",
+    "comment":"〖ŋีಖଏדЮ✫নმ௮₷ণજัゆ۩〗.:http://line.me/ti/p/ShgslAPyYS",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
