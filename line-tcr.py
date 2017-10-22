@@ -9,10 +9,6 @@ cl = LINETCR.LINE()
 cl.login(qr=True)
 cl.loginResult()
 
-ki = LINETCR.LINE()
-ki.login(pr=True)
-ki.loginResult()
-
 ki = kk = kc = ky = cl
 
 print u"login success"
@@ -94,7 +90,7 @@ helpMessage ="""        =====[C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̲̅�
 	
 		http://line.me/ti/p/~0647706747
    
-	        ⋆⋆[Selfbot Thailand]⋆⋆
+	        ⋆⋆[〖ŋีಖଏדЮ✫নმ௮₷ণજัゆ۩〗]⋆⋆
 """"
 helo=""
 
