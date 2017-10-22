@@ -92,7 +92,8 @@ helpMessage ="""        =====[C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̲̅�
 		http://line.me/ti/p/~0647706747
    
 	        ⋆⋆[Selfbot Thailand]⋆⋆
-""""
+		
+"""
 helo=""
 
 KAC=[cl,ki,kk,kc]
