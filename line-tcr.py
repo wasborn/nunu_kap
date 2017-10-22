@@ -102,6 +102,8 @@ Cmid = kc.getProfile().mid
 Bots = [ mid, Amid,Bmid,Cmid,]
 admin = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
 staff = [","]
+admidMID = [","]
+
 wait = {
     'contact':False,
     'autoJoin':False,
