@@ -16,6 +16,9 @@ cl.login(qr=True)
 cl.loginResult()
 
 ki=LineHomoRiron.LINE()
+ki.login(qr=True)
+ki.loginRdsult()
+
 kk=LineHomoRiron.LINE()
 kc=LineHomoRiron.LINE()
 try:
@@ -104,7 +107,7 @@ Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 
 Bots=[mid,Amid,Bmid,Cmid]
-admin=["YOUR_MID_HERE"]
+admin=[""]
 wait = {
     'contact':True,
     'autoJoin':True,
