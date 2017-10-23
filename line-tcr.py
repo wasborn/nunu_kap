@@ -9,7 +9,7 @@ cl = LINETCR.LINE()
 cl.login(qr=True)
 cl.loginResult()
 
-ki = LKNETCR.LINE()
+ki = ","LKNETCR".LINE()
 ki.login(qr=True)
 ki.loginResult()
 
