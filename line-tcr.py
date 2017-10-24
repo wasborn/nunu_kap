@@ -86,8 +86,6 @@ helpMessage ="""
 mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 k2mid = ki2.getProfile().mid
-Bots=[mid,Amid,Bmid,Cmid]
-admin=["u2c7f708769a2eb35d9ae9f73cd366e0b"]
 wait = {
     'contact':True,
     'autoJoin':False,
