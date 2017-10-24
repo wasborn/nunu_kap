@@ -134,13 +134,6 @@ wait = {
     "linkprotect":False,
 }
 
-{
-    'readPoint':{},
-    'readMember':{},
-    'setTime':{},
-    'ROM':{}
-    }
-
 setTime = {}
 setTime = wait2['setTime']
 
