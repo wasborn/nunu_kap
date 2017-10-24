@@ -13,7 +13,7 @@ ki = LINETCR.LINE()
 ki.login(qr=True)
 ki.loginResult()
 
-cl 
+cl = ki = kk = kc
 
 print u"login success"
 reload(sys)
