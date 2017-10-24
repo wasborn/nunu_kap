@@ -134,7 +134,7 @@ wait = {
     "linkprotect":False,
 }
 
- = {
+{
     'readPoint':{},
     'readMember':{},
     'setTime':{},
