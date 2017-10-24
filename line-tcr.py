@@ -134,10 +134,6 @@ wait = {
     "linkprotect":False,
 }
 
-setTime = {}
-setTime = wait2['setTime']
-
-
 def cms(string, commands): #/XXX, >XXX, ;XXX, ^XXX, %XXX, $XXX...
     tex = ["+","@","/",">",";","^","%","$","＾","サテラ:","サテラ:","サテラ：","サテラ："]
     for texX in tex:
