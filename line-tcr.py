@@ -1226,4 +1226,5 @@ thread2.daemon = True
 thread2.start()
 
 while True:
-    bot(cl.Poll.stream(50000))
+    bot(cl.Poll.rev = max(cl.Poll.rev, Op.revision)
+            bot(Op)
