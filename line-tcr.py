@@ -1,24 +1,29 @@
 # -*- coding: utf-8 -*-
-import LineAlpha
-from LineAlpha.lib.Gen.ttypes import Message
+
+import LINETCR
+from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
 from io import StringIO
 import time,random,sys,json,codecs,threading,glob
 
-cl = LineAlpha.LINE()
+cl = LINETCR.LINE()
 cl.login(qr=True)
 cl.loginResult()
 
-ki = LineAlpha.LINE()
+ki = LINETCR.LINE()
 ki.login(qr=True)   
 ki.loginResult()
 
-ki2 = LineAlpha.LINE()
+ki2 = LINETCR.LINE()
 ki2.login(qr=True)
 ki2.loginResult()
+
+cl
+
 print u"login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
+
 helpMessage ="""          
                🍒🍁°Qυєєи тαкєѕнιє°🍁🍒
 🍒[Id]: 
@@ -81,8 +86,8 @@ helpMessage ="""
 mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 k2mid = ki2.getProfile().mid
-
-
+Bots=[mid,Amid,Bmid,Cmid]
+admin=["u2c7f708769a2eb35d9ae9f73cd366e0b"]
 wait = {
     'contact':True,
     'autoJoin':False,
