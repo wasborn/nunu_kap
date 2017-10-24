@@ -9,9 +9,9 @@ cl = LINETCR.LINE()
 cl.login(qr=True)
 cl.loginResult()
 
-ki = LINETCR.LINE()
-ki.login(qr=True)
-ki.loginResult()
+kk = LINETCR.LINE()
+kk.login(qr=True)
+kk.loginResult()
 
 ki = kc = kk = cl
 
@@ -133,6 +133,16 @@ wait = {
     "inviteprotect":False,
     "linkprotect":False,
 }
+
+ = {
+    'readPoint':{},
+    'readMember':{},
+    'setTime':{},
+    'ROM':{}
+    }
+
+setTime = {}
+setTime = wait2['setTime']
 
 
 def cms(string, commands): #/XXX, >XXX, ;XXX, ^XXX, %XXX, $XXX...
