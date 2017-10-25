@@ -58,7 +58,7 @@ helpMessage ="""
 🍒[Clock: off]: 
 🍒[Setting]: 
 
-🍒🍒 🍒🍒
+🍒🍒Commands in the groups🍒🍒
 
 🍒[Responsename/kicker]:
 🍒[Ban]: 
@@ -79,8 +79,8 @@ helpMessage ="""
 🍒[Kicker request author]
 
           
-      
-          🍒Selfbot by Queen🍒"""          
+     "http://line.me/ti/p/ShgslAPyYS"
+          🍒Selfbot by Nunu🍒"""          
 
 
 mid = cl.getProfile().mid
