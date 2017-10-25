@@ -25,7 +25,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 helpMessage ="""          
-               🍒🍁°Qυєєи тαкєѕнιє°🍁🍒
+               🍒🍁°BOT By.Nunu°🍁🍒
 🍒[Id]: 
 🍒[Mid]: 
 🍒[Me]: 
@@ -58,7 +58,7 @@ helpMessage ="""
 🍒[Clock: off]: 
 🍒[Setting]: 
 
-🍒🍒 Commands in the groups🍒🍒
+🍒🍒 🍒🍒
 
 🍒[Responsename/kicker]:
 🍒[Ban]: 
