@@ -18,7 +18,7 @@ ki2 = LINETCR.LINE()
 ki2.login(qr=True)
 ki2.loginResult()
 
-cl = ki = ki2
+ki = ki2 = cl
 
 print u"login success"
 reload(sys)
@@ -88,9 +88,8 @@ mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 k2mid = ki2.getProfile().mid
 admin=["u2c7f708769a2eb35d9ae9f73cd366e0b"]
-staff = [""]
-
 wait = {
+  
     'contact':True,
     'autoJoin':False,
     'autoCancel':{"on":True,"members":1},
