@@ -20,6 +20,10 @@ kc = LineAlpha.LINE()
 kc.login(qr=True)
 kc.loginResult()
 
+kk = kc
+ki = ka
+cl
+
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
