@@ -24,6 +24,9 @@ ks = LINETCR.LINE()
 ks.login(token="EmEdDGksWu3PdVPjbsad.3ZijQj/+HYJ/+9NTGXTdBq.rv2LLRlwr8wMbWZxA1J4u3+rcKdOaWRg6BxLGTEHOMU=")
 ks.loginResult()
 
+kk = ks
+ki = lc
+
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
