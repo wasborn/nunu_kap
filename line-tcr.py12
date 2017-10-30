@@ -27,7 +27,7 @@ ks.loginResult()
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-helpMessage ="""Tamii Bot v1      
+helpMessage ="""Selfbot By.Nunu
   
 👊[Id]: ~÷~
 👊[Mid]: ~÷~
@@ -75,7 +75,7 @@ helpMessage ="""Tamii Bot v1
 👊[Gn: "name"]: "Change name Group"
 👊[NK: "Name"]: ~÷~
 👊[Dead]: "Kick Blacklist"
-
+ติดต่อ By.Nunu http://line.me/ti/p/ShgslAPyYS
 """
 helpMessage2 ="""-⚠™ -
 
@@ -90,7 +90,7 @@ mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 kimid = kk.getProfile().mid
 ki2mid = ks.getProfile().mid
-admin = ["ub736c5b1794f5aa30026d162d07ce5e6","u406133ad4d3fbe50a2f4d51ea081d050"]
+admin = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
 me = cl.getProfile().mid
 bot1 = cl.getProfile().mid
 main = cl.getProfile().mid
@@ -103,10 +103,10 @@ autocancel = {}
 autoinvite = []
 autoleaveroom = []
 
-admins = ["ub736c5b1794f5aa30026d162d07ce5e6"]
+admins = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
 Rx3 = ["u406133ad4d3fbe50a2f4d51ea081d050"]
 Rx2 = ["ua51ba06b0dd18c0bfe2cc6caa3458202"]
-Rx1 = ["uc7f32bb28dc009916d40af87c9910ddc"]
+Rx1 = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
 Administrator = admins + Rx3 + Rx2 + Rx1
 AS = Rx2 + Rx1 + Rx3
 adminsA = admins + Rx3
@@ -120,9 +120,9 @@ wait = {
     'leaveRoom':False,
     'timeline':False,
     'autoAdd':False,
-    'message':"Thanks add me😊😊😊",
+    'message':"Thanks add By.Nunu: http://line.me/ti/p/ShgslAPyYS  ",
     "lang":"JP",
-    "comment":"Auto like 👉Tamii👈",
+    "comment":"Auto like 👉By.Nunu👈 : http://line.me/ti/p/ShgslAPyYS  ",
     "likeOn":False,
     "commentOn":False,
     "commentBlack":{},
