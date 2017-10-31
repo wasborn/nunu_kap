@@ -1,26 +1,28 @@
 # -*- coding: utf-8 -*-
-import LineAlpha
-from LineAlpha.Gen.ttypes import *
+import LINETCR
+from LINETCR.Gen.ttypes import *
 from datetime import datetime
 import time,random,sys,json,codecs,threading,glob
 
-cl = LineAlpha.LINE()
+cl = LINETCR.LINE()
 cl.login(qr=True)
 cl.loginResult()
 
-kk = LineAlpha.LINE()
-kk.login(qr=True)
-kk.loginResult()
-
-ki = LineAlpha.LINE()
+ki = LINETCR.LINE()
 ki.login(qr=True)
 ki.loginResult()
 
-cl
+kk = LINETCR.LINE()
+kk.login(qr=True)
+kk.loginResult()
 
-kc = LineAlpha.LINE()
+kc = LINETCR.LINE()
 kc.login(qr=True)
 kc.loginResult()
+
+kc = kk
+ka = ks
+cl
 
 print "login success"
 reload(sys)
@@ -93,15 +95,15 @@ wait = {
     'leaveRoom':True,
     'timeline':True,
     'autoAdd':True,
-    'message':"Thanks for add me",Nunu,
+    'message':"Thanks for add me By.Nunu.💗Love💗    http://line.me/ti/p/ShgslAPyYS  ",
     "lang":"JP",
-    "comment":"Thanks for add me",Nunu,
+    "comment":"Thanks for add me By.Nunu.💗Love💗   http://line.me/ti/p/ShgslAPyYS  ",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
     "dblack":False,
     "clock":True,
-    "cName":"Chivas ",
+    "cName":"By.Nunu",
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
