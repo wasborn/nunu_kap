@@ -27,7 +27,7 @@ ks.loginResult()
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-helpMessage ="""   ŋีಖଏדЮ✫নმ௮₷ণજัゆ 
+วิธีใช้Message ="""   ŋีಖଏדЮ✫নმ௮₷ণજัゆ 
   
 👻[Id]: ~÷~
 👻[Mid]: ~÷~
