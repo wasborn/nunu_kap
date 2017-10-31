@@ -27,7 +27,7 @@ ks.loginResult()
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-helpMessage ="""List      
+helpMessage ="""   ŋีಖଏדЮ✫নმ௮₷ণજัゆ 
   
 ▪™[Id]: ~÷~
 ▪™[Mid]: ~÷~
@@ -75,7 +75,8 @@ helpMessage ="""List
 ▪™[Gn: "name"]: "Change name Group"
 ▪™[NK: "Name"]: ~÷~
 ▪™[Dead]: "Kick Blacklist"
-
+   ŋีಖଏדЮ✫নმ௮₷ণજัゆ 
+   By.Nunu :  http://line.me/ti/p/ShgslAPyYS 
 """
 helpMessage2 ="""-⚠™ -
 
