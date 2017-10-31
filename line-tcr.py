@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
+
 import LINETCR
-from LINETCR.Gen.ttypes import *
+from LINETCR.lib.curve.ttypes import *
+from io import StringIO
 from datetime import datetime
-import time,random,sys,json,codecs,threading,glob
+import time,random,sys,json,codecs,threading,glob,sys
+import re,string,os
+import os.path,sys,urllib,shutil,subprocess
 
 cl = LINETCR.LINE()
 cl.login(qr=True)
