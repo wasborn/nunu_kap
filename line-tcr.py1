@@ -51,6 +51,10 @@ helpMessage ="""By.Nunu.Selfbot
 👻[Ban]: "Add blacklist"
 👻[Unban]: "Dalate blacklist"
 👻[Banlist]: "Check blacklist"
+👻[Proteck: on/off]:"ป้องกัน"
+👻[Block url: on/off]:"ป้องกันลิ้ง"
+👻[Namelock: on/off]:"ป้องกันห้อง"
+👻[Blockinvite:on/off]:"ป้องกันการเชิญ"
 
 -☣[Set]:Commands Set. -
 👽[Contact: on/off]: 
