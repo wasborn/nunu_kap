@@ -27,7 +27,7 @@ ks.loginResult()
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-วิธีใช้Message ="""   ŋีಖଏדЮ✫নმ௮₷ণજัゆ 
+helpMessage ="""By.Nunu.Selfbot
   
 👻[Id]: ~÷~
 👻[Mid]: ~÷~
