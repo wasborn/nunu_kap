@@ -22,7 +22,7 @@ kc = LINETCR.LINE()
 kc.login(token="EmlrjDnEsJdFPtNEM8Ad.2LoE6VMBQSoJV0xj2s8CRq.OPjOaKgLmt4NrCxdaGkoMc2hXKgBt7S2hf2gWmDNzN4= ")
 
 ks = LINETCR.LINE()
-ks.login(token="EmCz6DNnxqZX6WNOd1p5./qjLLoOLNnKQHtepRYcLfq.cHonYaTp7V0oBiWrssWo/uru8rQXuNee0FQ0qB+Wm/g= ")
+ks.login(token="EmBCsuZL9vq1iLZfS4P4.h+7LUlIDiBHqDaKNxldQza.uYsYtwTp4JGOUdHxbaUlf3r+dqBCbpL3l8F/7CferBY=")
 
 ka = LINETCR.LINE()
 ka.login(token="EmjcxcBj09eWo0e1nHW6.cOUlaN4Ae9en1tL1q3RC5G.RNMWLCcsJmuwPju25T/FPi7ytJxMAumms9nrCYBOoRA=")
