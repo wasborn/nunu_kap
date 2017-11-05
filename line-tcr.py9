@@ -37,7 +37,7 @@ ke = LINETCR.LINE()
 ke.login(token="Em4tlEEcwIEzrSSOPxL0.J+CcBoFrJAH0a2V2NbmW0a.hkbkTACEsgRtPMgUPCkNGnypjyGUpRLVmm4kC9AdPK8=")
 
 ku = LINETCR.LINE()
-ku.login (โทเค็น = "EmJoYTHPkx9O7ZyAoYx8.CvfDE0xmrO8VQJ0W / N / iMa.cL3HfDhKzxn870u5GtqO6DHlvpFr4mErYqJPhiVk9xo =")
+ku.login (token= "EmJoYTHPkx9O7ZyAoYx8.CvfDE0xmrO8VQJ0W / N / iMa.cL3HfDhKzxn870u5GtqO6DHlvpFr4mErYqJPhiVk9xo =")
 
 print "login success"
 reload(sys)
