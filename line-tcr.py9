@@ -2,12 +2,11 @@
 
 import LINETCR
 from LINETCR.lib.curve.ttypes import *
+from io import StringIO
 from datetime import datetime
-import time,random,sys,json,codecs,threading,glob,re
-
-#kk = LINETCR.LINE()
-#kk.login(qr=True)
-#kk.loginResult()
+import time,random,sys,json,codecs,threading,glob,sys
+import re,string,os
+import os.path,sys,urllib,shutil,subprocess
 
 cl = LINETCR.LINE()
 cl.login(token="Em3js9gPtUpOPGBNpJwb.lh9WH2MI6ZxzRP9ZZtzUcW.i7k+X8PHOyX2BjgDcKkdh/0YQHMpPiESoMTTu6Ba/RE= ")
