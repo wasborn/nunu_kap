@@ -21,8 +21,6 @@ ki3 = LINETCR.LINE()
 ki3.login(qr=True)
 ki3.loginResult()
 
-cl = ki
-
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -104,7 +102,7 @@ ki15mid = ki15.getProfile().mid
 ki16mid = ki16.getProfile().mid
 ki17mid = ki17.getProfile().mid
 ki18mid = ki18.getProfile().mid
-Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid,ki11mid,ki12mid,ki13mid,ki14mid,ki15mid,ki16mid,ki17mid,ki18mid]
+Bots=[mid,kimid,ki2mid,ki3mid,]
 admsa = "u2c7f708769a2eb35d9ae9f73cd366e0b"
 
 wait = {
@@ -114,7 +112,7 @@ wait = {
     'leaveRoom':True,
     'timeline':False,
     'autoAdd':False,
-    'message':"тнαикѕ fσя α∂∂ιиg мє αѕ α fяιєиd",
+    'message':"Thanks For Add Me",
     "lang":"JP",
     "comment":"Thanks For Add Me",
     "commentOn":False,
