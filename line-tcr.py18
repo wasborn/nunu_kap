@@ -25,6 +25,10 @@ ki4 = LINETCR.LINE()
 ki4.login(qr=True)
 ki4.loginResult()
 
+ki5 = LINETCR.LINE()
+ki5.login(qr=True)
+ki5.loginResult()
+
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
