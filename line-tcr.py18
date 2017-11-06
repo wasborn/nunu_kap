@@ -82,7 +82,7 @@ helpMessage ="""=====[K̶̷̲̅I̶̷̲̅T̶̷̲̅ ̶̷̲̅S̶̷̲̅U̶̷̲̅N̲�
 
 =====[K̶̷̲̅I̶̷̲̅T̶̷̲̅ ̶̷̲̅S̶̷̲̅U̶̷̲̅N̶̷̲̅E̶̷̲̅]=====
 """
-KAC=[cl,ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9,ki10,ki11,ki12,ki13,ki14,ki15,ki16,ki17,ki18]
+KAC=[cl,ki,ki2,ki3,]
 mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 ki2mid = ki2.getProfile().mid
