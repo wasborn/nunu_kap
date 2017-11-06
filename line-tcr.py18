@@ -21,10 +21,6 @@ ki3 = LINETCR.LINE()
 ki3.login(qr=True)
 ki3.loginResult()
 
-ki4 = LINETCR.LINE()
-ki4.login(qr=True)
-ki4.loginResult()
-
 cl = ki
 
 reload(sys)
