@@ -88,7 +88,7 @@ kimid = ki.getProfile().mid
 ki2mid = ki2.getProfile().mid
 ki3mid = ki3.getProfile().mid
 
-Bots=[mid,kimid,ki2mid,ki3mid,]
+Bots=[mid,kimid,ki2mid,ki3mid]
 admsa = "u2c7f708769a2eb35d9ae9f73cd366e0b"
 
 wait = {
