@@ -21,18 +21,10 @@ ki3 = LINETCR.LINE()
 ki3.login(qr=True)
 ki3.loginResult()
 
-ki4 = LINETCR.LINE()
-ki4.login(qr=True)
-ki4.loginResult()
-
-ki5 = LINETCR.LINE()
-ki5.login(qr=True)
-ik5.loginResult()
-
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""=====[K̶̷̲̅I̶̷̲̅T̶̷̲̅ ̶̷̲̅S̶̷̲̅U̶̷̲̅N̶̷̲̅E̶̷̲̅]=====
+helpMessage ="""=====[By.Nunu]=====
 
 [C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅ᴅ̶̲̅]
 ☫[My help]
@@ -95,21 +87,7 @@ mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 ki2mid = ki2.getProfile().mid
 ki3mid = ki3.getProfile().mid
-ki4mid = ki4.getProfile().mid
-ki5mid = ki5.getProfile().mid
-ki6mid = ki6.getProfile().mid
-ki7mid = ki7.getProfile().mid
-ki8mid = ki8.getProfile().mid
-ki9mid = ki9.getProfile().mid
-ki10mid = ki10.getProfile().mid
-ki11mid = ki11.getProfile().mid
-ki12mid = ki12.getProfile().mid
-ki13mid = ki13.getProfile().mid
-ki14mid = ki14.getProfile().mid
-ki15mid = ki15.getProfile().mid
-ki16mid = ki16.getProfile().mid
-ki17mid = ki17.getProfile().mid
-ki18mid = ki18.getProfile().mid
+
 Bots=[mid,kimid,ki2mid,ki3mid,]
 admsa = "u2c7f708769a2eb35d9ae9f73cd366e0b"
 
