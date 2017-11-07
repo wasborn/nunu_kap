@@ -21,6 +21,8 @@ ki3 = LINETCR.LINE()
 ki3.login(qr=True)
 ki3.loginResult()
 
+ki = lc
+
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
