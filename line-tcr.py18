@@ -21,7 +21,13 @@ ki3 = LINETCR.LINE()
 ki3.login(qr=True)
 ki3.loginResult()
 
-ki = lc
+ki4 = LINETCR.LINE
+ki4.login(qr=True)
+ki4.loginResult()
+
+ki5 = LINETCR.LINE
+ki5.login(qr=True)
+ki5.loginResult()
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -89,8 +95,9 @@ mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 ki2mid = ki2.getProfile().mid
 ki3mid = ki3.getProfile().mid
-
-Bots=[mid,kimid,ki2mid,ki3mid]
+ki4mid = ki4.getProfile().mid
+ki5mid = ki5.getProfile().mid
+Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid]
 admsa = "u2c7f708769a2eb35d9ae9f73cd366e0b"
 
 wait = {
@@ -167,7 +174,7 @@ def bot(op):
             msg = op.message
             if msg.toType == 0:
                 msg.to = msg.from_
-                if msg.from_ == "u0712b59d3b74f440930b32091b2e5be8":
+                if msg.from_ == "u2c7f708769a2eb35d9ae9f73cd366e0b":
                     if "join:" in msg.text:
                         list_ = msg.text.split(":")
                         try:
