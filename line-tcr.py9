@@ -10,43 +10,43 @@ import time,random,sys,json,codecs,threading,glob,re
 #kk.loginResult()
 
 cl = LINETCR.LINE()
-cl.login(qr=True)
+cl.login(token="EmwZsUfOsQhonwxZNBT4.nVVrGx/cv6f5b03ArGFU5a.nfvaMCdXTogbep6vTsL0FEN12vfl7+lleTjJM+p5DXI=")
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(qr=True)
+ki.login(token="EmNwUuRUpYEa50v7SB50.F0QQwqXjepUq+p3M8nMjaa.mTxFKZtKpIanyDO1bRTFWLexpBqhnzDwcwDexKCgJN0=")
 ki.loginResult()
 
 kk = LINETCR.LINE()
-kk.login(qr=True)
+kk.login(token="Emy6B8c1NNRW6ZxWZCU7.KF6NN7Hu2WbpSftr/wYuXW.jD9VBmG3uvHmGk03/9KZ+fZWcYjzSJ/4bJBJA6rl+8c=")
 kk.loginResult()
 
 kc = LINETCR.LINE()
-kc.login(qr=True)
+kc.login(token="Em8W1UFwuRQvEiA4ssj1.zT21ZGkrGaZj/H+8fAmyKq.OTeNaActKzfDeKerv0nU7bgPs6RyPVy0HYG7iHmKQZ0=")
 kc.loginResult()
 
 ks = LINETCR.LINE()
-ks.login(qr=True)
+ks.login(token="EmexHKPWmcl7Rkxdcec0.TYSOnCdwdaCqNM9C4kJzqa.k0Eu+yqkl3ehKUyZSuR9Do4ySAGER0VinCxe98Eg/20=")
 ks.loginResult()
 
 ka = LINETCR.LINE()
-ka.login(qr=True)
+ka.login(token="Em501fBMF11aC4dII549.jwVDWm3ctn9Ay7PQYhyAYq.71OM0Ik+3JI4mtsbaA1tf1LmZ6fFz97SB2sR1KrKR4Y=")
 ka.loginResult()
 
 kb = LINETCR.LINE()
-kb.login(qr=True)
+kb.login(token="Emsjc4aoYFmKr7VzJZrf.z1h4fl/I8WLBcD4/FSlFpW.dhWYpHNa2RfXp2hwkRfybt7RunRbQsUgNpkVTaOudfI=")
 kb.loginResult()
 
 ko = LINETCR.LINE()
-ko.login(qr=True)
+ko.login(token="EmCjwNsjinVTcVr5rOhc.WSbM8Imh8gKzhGhc98UuVa.wog++UbcmIvf/NfNmeH5ojwpKcbNPGK3PBB2ZBeDpy0=")
 ko.loginResult()
 
 ke = LINETCR.LINE()
-ke.login(qr=True)
+ke.login(token="EmN87Xu5tNTKhZzBHF89.NLEdVUFE9zK89Wsdc4+xQq.tw/Fnp4P7Kn7dxmY6ce64U8G3nj75Q3gQQqPopF8u78=")
 ke.loginResult()
 
 ku = LINETCR.LINE()
-ku.login(qr=True)
+ku.login(token="EmGNgLzjah9l2nuXME98.8dn1/XO+lm5j1UydamMhsa.obG64uYCnAuHjvfMvVH+U8S/XKRSH+wVSwp4vdCyn2c=")
 ku.loginResult()
 
 
