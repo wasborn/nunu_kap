@@ -10,34 +10,44 @@ import time,random,sys,json,codecs,threading,glob,re
 #kk.loginResult()
 
 cl = LINETCR.LINE()
-cl.login(token="ElwNEqEevvbPiwHuCVL6.TZBfSxLpwQmajTfI0hZL5G.TOMs2ntqK3BtgPmsgDp1g+UZO24ao9Oe9K57tsHUugQ=")
+cl.login(qr=True)
+cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="EldjmeKCcEeMN5M5aTUc.no4dMxrsd11rTBtXMaDXxa.v8r4XsC8Zj3nPFrAsuXV3Evk/dmy2DOSLhC6EIj7NB8=")
+ki.login(qr=True)
+ki.loginResult()
 
 kk = LINETCR.LINE()
-kk.login(token="ElQnJiGBh080D0m26Ho7.PxA11UvF6+oIj1J2xHVgHW.aZnrwsJ4fGX36m6psRUdC+yITXYjZrBlTGinrCQpHuo=")
+kk.login(qr=True)
+kk.loginResult()
 
 kc = LINETCR.LINE()
-kc.login(token="ElDNZ4emNgGv3W7NOpQd.3ZijQj/+HYJ/+9NTGXTdBq.J9bKSVBcNBurahyLyOUwGRD/TX/s46plKh9vcYFIF6A=")
+kc.login(qr=True)
+kc.loginResult()
 
 ks = LINETCR.LINE()
-ks.login(token="ElzX5EtV0JBJOr6nCZy2.HczpEpY3698wuSB+TzCDKG.+U7W+QXHOfxx3TP1f/7PlZhNvYz08EEi00RjN2FZiZ0=")
+ks.login(qr=True)
+ks.loginResult()
 
 ka = LINETCR.LINE()
-ka.login(token="ElK7VU11ig1O1fFuyLQ2.+hrnQ8/01MtcFBhHfkeqmG.siUB5wiFvY08ay3LMNzMLZrbvXh1HQAzBpFtG/Ud5TM=")
+ka.login(qr=True)
+ka.loginResult()
 
 kb = LINETCR.LINE()
-kb.login(token="ElhZaRXALLJR39jbFqAb.8udcfgLi7ehlJbE2o+xCkW.bkcVsy06LrUxFwvLc7YxGXMD6FE2fm2mr3C+tMqCmTU=")
+kb.login(qr=True)
+kb.loginResult()
 
 ko = LINETCR.LINE()
-ko.login(token="ElA4D8ar1BuscOmJtaYa.DP7HM0ARnuIu/2g0+3pMUG.35meL/KHaKnjOwwhXbHNVVuvdIuW31ScNL0boHQB1P8=")
+ko.login(qr=True)
+ko.loginResult()
 
 ke = LINETCR.LINE()
-ke.login(token="El0woIiyBcsjC1uTTAsa.M5S4YxDWvhoYOasbMPWroG.1VD49QNcVRpnezRLb4JyFQLSKdFRweiK6QsfZP5+JgU=")
+ke.login(qr=True)
+ke.loginResult()
 
 ku = LINETCR.LINE()
-ku.login(token="ElRDzd5kJZrhjSZeMQu4.9gH7ABV+xQLJo9i7SbFX5a.1UDJG2VBERnv/BcBbzWVIBBbtghJzNvzt7H3qUueNPc=")
+ku.login(qr=True)
+ku.loginResult()
 
 
 print "login success"
@@ -102,8 +112,8 @@ Gmid = ko.getProfile().mid
 Hmid = ke.getProfile().mid
 Imid = ku.getProfile().mid
 
-Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,"u34ee039974520f5d51b5b4f19807715c"]
-admin=["u2c7f708769a2eb35d9ae9f73cd366e0b"]
+Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,"u36fbd1817f8257a179074dda4607eee4"]
+admin=["u2c7f708769a2eb35d9ae9f73cd366e0b","u186cf7940c7de8f76a3cbc76405f5f5c","u5068fff4398601a4b5fa1c9876ea170c"]
 wait = {
     'contact':False,
     'autoJoin':True,
