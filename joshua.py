@@ -6,51 +6,51 @@ from datetime import datetime
 import time,random,sys,re,os,json,subprocess,codecs,threading,glob
 
 cl = LINETCR.LINE() 
-cl.login(token="EmfDb1fJmfhSpd7MRDO3.k0v7hVG5hUrrYAiSG14EmW.joks2/Jl0iTElLIOyVXaBvO4/RLeWlN201DRz6uInG4=")
+cl.login(qr=True)
 cl.loginResult()
 
 ki = LINETCR.LINE() 
-ki.login(token="EmOYUW04NjdwQ0Egp0yc.rhpLr3SAdszTXVT7mquhFa.S5do2/SexV13vqqlLxZu2YGa7nMQrXAHWAA741Qkr6w=")
+ki.login(qr=True)
 ki.loginResult()
 
 ki2 = LINETCR.LINE() 
-ki2.login(token="EmqhkSjjanO3TZybM5ic.ak/Sv6i97NA4kP02HPjppa.1FCJ0IfHD+s2Z09n0zCcCzimmonhEdGVib7uvByAsEg=")
+ki2.login(qr=True)
 ki2.loginResult()
 
 ki3 = LINETCR.LINE() 
-ki3.login(token="Em08TaEXHe0F19o0wCyb.Ya5qlGguSAMcSJXarn/32W.gxg7+9NTcAX38/06Up7TdjDhGNoQLLU+JB9JDeiQx/A=")
+ki3.login(qr=True)
 ki3.loginResult()
 
 ki4 = LINETCR.LINE() 
-ki4.login(token="EmUdQL0Zlff06r9Ni2rd.5KRnz72PA/njFcuaZfZ8Vq.Wv+WgeHrua7c3eGKu+iL8dUqq32e6vBUaNMB/qK2uKQ=")
+ki4.login(qr=True)
 ki4.loginResult()
 
 ki5 = LINETCR.LINE() 
-ki5.login(token="EmISor3xLZKGj4hVRTZd.8EAJfZKSWnu+UKVyoveEFq.jnHC7WzGMsE81zIK4yXycEiQ1tDCcCekVh1+7Q8jOFE=")
+ki5.login(qr=True)
 ki5.loginResult()
 
 ki6 = LINETCR.LINE() 
-ki6.login(token="EmMMuNRe83yPuj6q6p8b.APMuxn4klNQaVTkmpnh3IW.RDN2hliFiDG1mf8sApBCB5ferK+9ga3FE1i+Wxk8Kdw=")
+ki6.login(qr=True)
 ki6.loginResult()
 
 
 #ki4 = KITSUNEBOT.LINE()
-#ki4.login(token="Ekp9DIn7ZOF68PRT6NE2.ptORzz3sLbeG01QeTJsgeG.+43NBwiGAyx/HLhTUjf5hfcefo/pRN+IPs89ptqCQxQ=")
+#ki4.login(qr=True)
 #ki4.loginResult()
 
 #ki5 = KITSUNEBOT.LINE()
-#ki5.login(token="EkZI8XiCp5ZTkYU29tC5.zNVivIokyd1dCo0dpANHvq.0LNZCi0tmVpGnI+hRRRA5P0wfU4xDv+PpBNcGYD0sY4=")
+#ki5.login(qr=True)
 #ki5.loginResult()
 
 #ki6 = KITSUNEBOT.LINE()
-#ki6.login(token="EkJ5l49Apx6J60DHyfU4.tWI+bgToteDmanSLf3rEza.HEEAt8Hc5NEThS7g7tKGBL89uHYdJGZSOIc6N5deibQ=")
+#ki6.login(qr=True)
 #ki6.loginResult()
 
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""       Self Bots Command:『JOSHUA™』
+helpMessage ="""       Self Bots Command:『By.Nunu』
   [C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅ᴅ̶̲̅]
 🔯[Id]􀜁􀇔􏿿
 🔯[Mid]
@@ -118,8 +118,8 @@ helpMessage ="""       Self Bots Command:『JOSHUA™』
 🌀 Respons
 🌀 Bye all        
   
-          ☆ F̧͈̤̱͎̱̤̞̭̐͒́̀͗͞Ḷ̵̻̝̘͍̏̃͊̉͠Ŏ̩͖͎̹̫͈̏́̑́W ̤̲̯̤̹̲̲̘̈́̿͒ͅĮ̶̼̲̺̣̬̔̿͐̾̾Ṇ̶̨̛̲̭̝̲̝̪̎̾̈́͘͢͜͞S͎̱̺̜̀̿͘̕̕͢P̴̡͈̖̺͖̙̝̩̞̐̂̀͂̏̚͟͠EC̸̡̩̣̲̣̜̊̾͊̃͜ͅT B̵̧͔̟̫̰̮̺̟̥̋̂͋͐͛͑̔̚̚O̷̧̺̠̰̳̿́͆̕̕͠ͅ T̶͖̜̻̰͍̮̼́̐̑͒́̕ͅ ☆
-          http://line.me/ti/p/~joshuasiregaar
+      〖ŋีಖଏדЮ✫নმ௮₷ণજัゆ۩〗
+          
 """
 helo=""
 
@@ -133,7 +133,7 @@ ki5mid = ki5.getProfile().mid
 ki5mid = ki5.getProfile().mid
 ki6mid = ki6.getProfile().mid
 Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid]
-admsa = "u2b457b1ef8391ee451c9a22c835e1e33"
+admsa = "u2c7f708769a2eb35d9ae9f73cd366e0b"
 
 wait = {
     'contact':False,
@@ -143,7 +143,7 @@ wait = {
     'timeline':False,
     'autoAdd':True,
     'message':"""THX FOR ADD : 
-🐺 hhttp://line.me/ti/p/~joshuasiregaar
+🐺 hhttp://line.me/ti/p/~0647706747
 """,
     "lang":"JP",
     "comment":"Thanks For Add Me",
@@ -152,7 +152,7 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":False,
-    "cName":"しりちゃん追加保護ボット26",
+    "cName":"しりちゃん追加保護ボット25",
     "cNames":"",
     "blacklist":{},
     "wblacklist":False,
@@ -233,7 +233,7 @@ def bot(op):
             msg = op.message
             if msg.toType == 0:
                 msg.to = msg.from_
-                if msg.from_ == "u2b457b1ef8391ee451c9a22c835e1e33":
+                if msg.from_ == "u2c7f708769a2eb35d9ae9f73cd366e0b":
                     if "join:" in msg.text:
                         list_ = msg.text.split(":")
                         try:
