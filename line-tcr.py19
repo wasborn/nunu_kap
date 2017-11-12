@@ -10,27 +10,27 @@ cl.login(qr=True)
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(tokeu="EmlaLbWIkG1e6B1iBDg4.Taq4zRpoy8MaIjFbl09Fba.RMUeN/mf3off+c+TELWlpLIGOTNpGg+6VV8ycepkj3g=")
+ki.login(qr=True)
 ki.loginResult()
 
 ki2 = LINETCR.LINE()
-ki2.login(token="EmTnVVp3sjmgDLBuOKra.otjypLFkvzc+H16E2qyN/G.2jgxPGhKRzKseA3Q7GhZV4Sqaa5N9u8YeC2zT7E7ngk=")
+ki2.login(qr=True)
 ki2.loginResult()
 
 ki3 = LINETCR.LINE()
-ki3.login(token="Ems610UOKbwVqH1runod.2LoE6VMBQSoJV0xj2s8CRq.AXHrA05Fjsy3uPdC3Fd9hRDh79twr8pf1RudpiEAjJY=")
+ki3.login(qr=True)
 ki3.loginResult()
 
 ki4 = LINETCR.LINE()
-ki4.login(token="EmtV31WiMx9X3CSWG941.g6FOp0t4PxDBHY58MdDjSq.3gonbC/4oxZdY5jwjFPrDsD9zYrpIeyjw3mYkGEteVU=")
+ki4.login(qr=True)
 ki4.loginResult()
 
 ki5 = LINETCR.LINE()
-ki5.login(token="EmKkea8aUo8UurnQHCt2.lCQlKffPrDvJ4C9I01fB4G.YKM0drUkTP95RKhBZCkVDLQVqCtpffSWFn54KNeP7hc=")
+ki5.login(qr=True)
 ki5.loginResult()
 
 ki6 = LINETCR.LINE()
-ki6.login(token="EmVqNzk82snyDLN8aZi4.nVVrGx/cv6f5b03ArGFU5a.2wcyuYAL4dQwPIV5OiHBM2gbqxcpMAFDwZB9J6/4aeU=")
+ki6.login(qr=True)
 ki6.loginResult()
 
 ki7 = LINETCR.LINE()
