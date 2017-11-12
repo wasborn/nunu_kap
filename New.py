@@ -1,26 +1,26 @@
 # -*- coding: utf-8 -*-
 
-import TOBY
+import LINETCR
 import requests
-from TOBY.lib.curve.ttypes import *
+from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
 # https://kaijento.github.io/2017/05/19/web-scraping-youtube.com/
 # from imgurpython import ImgurClient
 import time,random,sys,json,codecs,threading,glob,re
 
-cl = TOBY.LINE()
+cl = LINETCR.LINE()
 cl.login(qr=True)
 cl.loginResult
 
-ki = TOBY.LINE()
+ki = LINETCR.LINE()
 ki.login(qr=True)
 ki.loginResult
 
-kb = TOBY.LINE()
+kb = LINETCR.LINE()
 kb.login(qr=True)
 kb.loginResult
 
-ky = TOBY.LINE()
+ky = LINETCR.LINE()
 ky.login(qr=True)
 ky.loginResult
 
