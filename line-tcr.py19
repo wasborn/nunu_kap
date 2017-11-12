@@ -109,7 +109,7 @@ helpMessage ="""=====[K̶̷̲̅I̶̷̲̅T̶̷̲̅ ̶̷̲̅S̶̷̲̅U̶̷̲̅N̲�
 
 =====[K̶̷̲̅I̶̷̲̅T̶̷̲̅ ̶̷̲̅S̶̷̲̅U̶̷̲̅N̶̷̲̅E̶̷̲̅]=====
 """
-KAC=[cl,ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9,ki10,ki11,ki12,ki13,ki14,ki15,ki16,ki17,ki18]
+KAC=[cl,ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9,ki10]
 mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 ki2mid = ki2.getProfile().mid
@@ -129,7 +129,7 @@ ki15mid = ki15.getProfile().mid
 ki16mid = ki16.getProfile().mid
 ki17mid = ki17.getProfile().mid
 ki18mid = ki18.getProfile().mid
-Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid,ki11mid,ki12mid,ki13mid,ki14mid,ki15mid,ki16mid,ki17mid,ki18mid]
+Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid]
 admsa = "ua7fb5762d5066629323d113e1266e8ca"
 
 wait = {
