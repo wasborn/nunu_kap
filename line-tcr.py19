@@ -6,47 +6,47 @@ from datetime import datetime
 import time,datetime,random,sys,re,os,json,subprocess,codecs,threading,glob
 
 cl = LINETCR.LINE()
-cl.login(qr=True)
+cl.login(token="Em4pGTolRHWxYGx8XpTb.lh9WH2MI6ZxzRP9ZZtzUcW.UHWmFUMvYSU+jbLnKNpMuzu2HcqDsEMUtZpkd8ljFK0=")
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(qr=True)
+ki.login(token="Em8eAdgW9RhW1rpfxV14.Taq4zRpoy8MaIjFbl09Fba.rl0u2nWQp2PN6ctTsMgYNAvHWWeT/xx6TIj1CieVzz8=")
 ki.loginResult()
 
 ki2 = LINETCR.LINE()
-ki2.login(qr=True)
+ki2.login(token="EmldBWuIAXvNwwO4ZU0a.otjypLFkvzc+H16E2qyN/G.dSf07iM2oysE/tQcDCxx5P6dLGnfE5MLJGH7D1DvLcg=")
 ki2.loginResult()
 
 ki3 = LINETCR.LINE()
-ki3.login(qr=True)
+ki3.login(token="Em0k1u1GWhOioU6gxXHd.2LoE6VMBQSoJV0xj2s8CRq.GvKz5XMUIbWeL5MVefEaO1gc6wu5zouPJO2JriBjMKM=")
 ki3.loginResult()
 
 ki4 = LINETCR.LINE()
-ki4.login(qr=True)
+ki4.login(token="Emk3Y76OMvyFMosMi8i1.g6FOp0t4PxDBHY58MdDjSq.wOXslSiFOmhGP6ADCFWdMKzofAJq1hl1w0ag4i4CE1E=")
 ki4.loginResult()
 
 ki5 = LINETCR.LINE()
-ki5.login(qr=True)
+ki5.login(token="EmZs8drMpZ0q28k2q6G2.lCQlKffPrDvJ4C9I01fB4G.4952ZySLHO8sVfP3iN6fllCkp/AvitavJlp5Nuv+jWw=")
 ki5.loginResult()
 
 ki6 = LINETCR.LINE()
-ki6.login(qr=True)
+ki6.login(token="Em556sYaTO6AgP4Kxqc4.nVVrGx/cv6f5b03ArGFU5a.Bddb7RqjoObWJcAETM7HGdREBdEukeiznBfFvvzS0Wk=")
 ki6.loginResult()
 
 ki7 = LINETCR.LINE()
-ki7.login(qr=True)
+ki7.login(token="EmzBtRi6TWEIVsWOT5Ff.2Ad+jSMK5L577woncnuh7W.vBPXRlY74mAIAGSxQo/N7nTevroPOc/8khxSKSuFGq8=")
 ki7.loginResult()
 
 ki8 = LINETCR.LINE()
-ki8.login(qr=True)
+ki8.login(token="Emd7K1hoATUqyhFg5733.WYwUmPddvCwHomBR1CqRKW.uSkaSHXhTjWLwlVxIpuYv+XyH20dZxu9e7UntmEXpqw=")
 ki8.loginResult()
 
 ki9 = LINETCR.LINE()
-ki9.login(qr=True)
+ki9.login(token="Em7iRyviSPAqkUMKGme2.95DDfpXOzsm0FioN2vCdmG.BVeY4rDkqbkO75/glLTo9skm7JnnZJ4WxRBBiVGeHCI=")
 ki9.loginResult()
 
 ki10 = LINETCR.LINE()
-ki10.login(qr=True)
+ki10.login(token="Em5kmFIb2Jniw0cFYTt9.m+QWcDCzbafjVosqZ/m5kq.kiOlbpUVAwUoLkQQghLFIxJuyIx7kl1K0KcLPSLYGsc=")
 ki10.loginResult()
 reload(sys)
 sys.setdefaultencoding('utf-8')
