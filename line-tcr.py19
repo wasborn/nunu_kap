@@ -48,38 +48,6 @@ ki9.loginResult()
 ki10 = LINETCR.LINE()
 ki10.login(qr=True)
 ki10.loginResult()
-
-ki11 = LINETCR.LINE()
-ki11.login(qr=True)
-ki11.loginResult()
-
-ki12 = LINETCR.LINE()
-ki12.login(qr=True)
-ki12.loginResult()
-
-ki13 = LINETCR.LINE()
-ki13.login(qr=True)
-ki13.loginResult()
-
-ki14 = LINETCR.LINE()
-ki14.login(qr=True)
-ki14.loginResult()
-
-ki15 = LINETCR.LINE()
-ki15.login(qr=True)
-ki15.loginResult()
-
-ki16 = LINETCR.LINE()
-ki16.login(qr=True)
-ki16.loginResult()
-
-ki17 = LINETCR.LINE()
-ki17.login(qr=True)
-ki17.loginResult()
-
-ki18 = LINETCR.LINE()
-ki18.login(qr=True)
-ki18.loginResult()
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
