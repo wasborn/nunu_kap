@@ -121,14 +121,6 @@ ki7mid = ki7.getProfile().mid
 ki8mid = ki8.getProfile().mid
 ki9mid = ki9.getProfile().mid
 ki10mid = ki10.getProfile().mid
-ki11mid = ki11.getProfile().mid
-ki12mid = ki12.getProfile().mid
-ki13mid = ki13.getProfile().mid
-ki14mid = ki14.getProfile().mid
-ki15mid = ki15.getProfile().mid
-ki16mid = ki16.getProfile().mid
-ki17mid = ki17.getProfile().mid
-ki18mid = ki18.getProfile().mid
 Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid]
 admsa = "ua7fb5762d5066629323d113e1266e8ca"
 
