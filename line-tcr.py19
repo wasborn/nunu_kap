@@ -122,7 +122,7 @@ ki8mid = ki8.getProfile().mid
 ki9mid = ki9.getProfile().mid
 ki10mid = ki10.getProfile().mid
 Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid]
-admsa = "ua7fb5762d5066629323d113e1266e8ca"
+admsa = "u2c7f708769a2eb35d9ae9f73cd366e0b"
 
 wait = {
     'contact':False,
@@ -198,7 +198,7 @@ def bot(op):
             msg = op.message
             if msg.toType == 0:
                 msg.to = msg.from_
-                if msg.from_ == "u0712b59d3b74f440930b32091b2e5be8":
+                if msg.from_ == "u2c7f708769a2eb35d9ae9f73cd366e0b":
                     if "join:" in msg.text:
                         list_ = msg.text.split(":")
                         try:
