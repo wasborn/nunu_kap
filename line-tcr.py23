@@ -43,38 +43,43 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" [Tamii] BOT Menu V.3  􀔃􀄆red check mark􏿿
+helpMessage =""" Selfbot By. ─•✵✟۞ ℓℓஆՁゆຸ۞✵•─  􀔃􀄆red check mark􏿿
 
 􀔃􀅕red arrow right􏿿 Command Public
-😎[Me]       Cek Akun Sendiri
-😎[My mid]   Cek Akun Mid
-😎[Bot?]     Cek Akun Bot
-😎[Id Group] Cek Id Group
-😎[Ginfo]    Group Info
-😎[Mid RA]   Cek All mid Bot
-😎[RA 1/2/3/4] Cek Mid Bot
-😎[Respon]   Cek Respon Bot
-😎[Speedbot] Cek Kecepatan Bot
-😎[Up]       Fungsi Spam Chat
-😎[Tagall]   Mention Semua User
-😎[Banlist]  Cek List Akun Banned
-😎[Gn namagroup] Ganti Nama Group
-😎[Cancel] Cancel User Masuk Group
-😎[Set View] Cek Privasi Group
-😎[Open Url]  Membuka Url Group
-😎[Close Url] Menutup Url Group
+☁️[Me]       Cek Akun Sendiri
+☁️[My mid]   Cek Akun Mid
+🌤️[Bot?]     Cek Akun Bot
+🌥️[Id Group] Cek Id Group
+🌤️[Ginfo]    Group Info
+🌨️[Mid RA]   Cek All mid Bot
+⛈️[RA 1/2/3/4] Cek Mid Bot
+⛈️[Respon]   Cek Respon Bot
+⛈️[Speedbot] Cek Kecepatan Bot
+⛅[Up]       Fungsi Spam Chat
+⛅[Tagall]   Mention Semua User
+🌥️[Banlist]  Cek List Akun Banned
+🌨️[Gn namagroup] Ganti Nama Group
+🌤️[Cancel] Cancel User Masuk Group
+🌥️[Set View] Cek Privasi Group
+🌧️[Open Url]  Membuka Url Group
+🌧️[Close Url] Menutup Url Group
 
 􀔃􀅕red arrow right􏿿 Command Private
-👊[Set group] Menggatur Privasi Grup
-👊[Banned @] Bann Target 
-👊[Unban @]  Unbann Target
-👊[Kill @] Kick Target Bann
-👊[Nk @]   Kick Target User
-👊[Invite mid] Invite Via Mid
-👊[Kick mid] Kick Via mid
-👊[Ayo masuk] Invite Semua Bot
-👊[_namabot join] Invite Bot
-👊[Bye _namabot]  Leave Bot
+🌠[Set group] Menggatur Privasi Grup
+🌟[Banned @] Bann Target 
+🌟[Unban @]  Unbann Target
+🌟[Kill @] Kick Target Bann
+🌟[Nk @]   Kick Target User
+🌟[Invite mid] Invite Via Mid
+🌟[Kick mid] Kick Via mid
+🌟[Ayo masuk] Invite Semua Bot
+🌟[_namabot join] Invite Bot
+🌟[Bye _namabot]  Leave Bot
+     
+            ─•✵✟۞ ℓℓஆՁゆຸ۞✵•─
+	    
+	http://line.me/ti/p/ShgslAPyYS
+	
 """
 
 Setgroup =""" Privasi Menu V.1 􀔃􀄆red check mark􏿿
@@ -110,9 +115,9 @@ wait = {
     'leaveRoom':True,
     'timeline':False,
     'autoAdd':False,
-    'message':"Thanks for add me",
+    'message':"Thanks for add me ─•✵✟۞ ℓℓஆՁゆຸ۞✵•─  http://line.me/ti/p/ShgslAPyYS ",
     "lang":"JP",
-    "comment":"Thanks for add me",
+    "comment":"Thanks for add me ─•✵✟۞ ℓℓஆՁゆຸ۞✵•─ http://line.me/ti/p/ShgslAPyYS ",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
