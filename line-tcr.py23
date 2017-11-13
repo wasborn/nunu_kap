@@ -1954,7 +1954,6 @@ def bot(op):
     #----------------------Fungsi Join Group Finish---------------#
 
     #-------------Fungsi Leave Group Start---------------#
-
             elif msg.text in ["B."]:
                 if msg.toType == 2:
                    X = cl.getGroup(msg.to)
@@ -1966,10 +1965,10 @@ def bot(op):
 					ka.leaveGroup(msg.to)
 					kb.leaveGroup(msg.to)
 					ko.leaveGroup(msg.to)
-					ke.leaveGroup(msg.to)
-					ku.leaveGroup(msg.to)
-                    except:
-                        pass
+					ke.leaveGroup(msg.to)			               
+                            		ku.leaveGroup(msg.to)					
+                except:
+                     pass                                                             
             elif msg.text in ["Bye _Second"]:
               if msg.from_ in admin:
                 if msg.toType == 2:
