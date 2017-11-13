@@ -37,8 +37,7 @@ ke = LINETCR.LINE()
 ke.login(token="EmbdpQ9EDVNMjUzjqMJ3.WYwUmPddvCwHomBR1CqRKW.7fc9tvwf4ufLwl6Ha0zC6ImFAITAL7vP4ZWS/IaLvp8=")
 
 ku = LINETCR.LINE()
-ku.login(token="EmxG648j0why6yFup5V2.95DDfpXOzsm0FioN2vCdmG.XnIrodR7Awy17wh7g8z16nfQmOecwrJkAQLrnXiI0Z4=")
-ku.loginResult()
+ku.login(token="EmxG648j0why6yFup5V2.95DDfpXOzsm0FioN2vCdmG.XnIrodR7Awy17wh7g8z16nfQmOecwrJkAQLrnXiI0Z4=
 
 print "login success"
 reload(sys)
@@ -1955,20 +1954,20 @@ def bot(op):
     #----------------------Fungsi Join Group Finish---------------#
 
     #-------------Fungsi Leave Group Start---------------#
-            elif msg.text in ["Bye all"]:
-              if msg.from_ in admin:
+
+            elif msg.text in ["B."]:
                 if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki.leaveGroup(msg.to)
-                        kk.leaveGroup(msg.to)
-                        kc.leaveGroup(msg.to)
-                        ks.leaveGroup(msg.to)
-                        ka.leaveGroup(msg.to)
-                        kb.leaveGroup(msg.to)
-                        ko.leaveGroup(msg.to)
-                        ke.leaveGroup(msg.to)
-                        ku.leaveGroup(msg.to)
+                   X = cl.getGroup(msg.to)
+                try:			
+					ki.leaveGroup(msg.to)
+					kk.leaveGroup(msg.to)
+					ks.leaveGroup(msg.to)
+					kc.leaveGroup(msg.to)
+					ka.leaveGroup(msg.to)
+					kb.leaveGroup(msg.to)
+					ko.leaveGroup(msg.to)
+					ke.leaveGroup(msg.to)
+					ku.leaveGroup(msg.to)
                     except:
                         pass
             elif msg.text in ["Bye _Second"]:
