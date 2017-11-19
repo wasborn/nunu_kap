@@ -22,7 +22,7 @@ kc.login(token="Em2HmZvkE4cyoLFijUL2.95DDfpXOzsm0FioN2vCdmG.n1GSAR13TkVFjvmrTZnh
 kc.loginResult()
 
 kd = LINETCR.LINE()
-kd.login(token='EmMNxkESqtLLGdYimFx2.lCQlKffPrDvJ4C9I01fB4G.Mi9qkLaNGflBN5yHA7bBxM+zeW4zDyttagUtbJq73lQ=")
+kd.login(token="EmMNxkESqtLLGdYimFx2.lCQlKffPrDvJ4C9I01fB4G.Mi9qkLaNGflBN5yHA7bBxM+zeW4zDyttagUtbJq73lQ=")
 kd.loginResult()
 
 ke = LINETCR.LINE()
@@ -30,7 +30,7 @@ ke.login(token="Emp1ze1uZVSmIb6R1JD4.nVVrGx/cv6f5b03ArGFU5a.FVXgKB5umtIsSaLX3wEd
 ke.loginResult()
 
 kf = LINETCR.LINE()
-kf.login(qr=True(
+kf.login(qr=True)
 kf.loginResult()
 
 kg = LINETCR.LINE()
@@ -115,7 +115,7 @@ Imid = kj.getProfile().mid
 Jmid = kl.getProfile().mid
 
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,Jmid]
-admin=["ub747db128c45151391e8bef56abba014"]
+admin=["u2c7f708769a2eb35d9ae9f73cd366e0b"]
 wait = {
     'contact':True,
     'autoJoin':True,
