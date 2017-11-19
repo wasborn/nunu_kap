@@ -30,23 +30,23 @@ ke.login(token="Emp1ze1uZVSmIb6R1JD4.nVVrGx/cv6f5b03ArGFU5a.FVXgKB5umtIsSaLX3wEd
 ke.loginResult()
 
 kf = LINETCR.LINE()
-kf.login(qr=True)
+kf.login(token="EmXghEnhwPcp05GrCJOf.2Ad+jSMK5L577woncnuh7W.2ypZiZCTMdgCQiCkMI77WJJWDgnJ+1b3xLpuZ2cUFnY=")
 kf.loginResult()
 
 kg = LINETCR.LINE()
-kg.login(qr=True)
+kg.login(token="EmQUsLtqrrg5dPDpk9R3.WYwUmPddvCwHomBR1CqRKW.KTi5YyuOFsP6+76NYf8Y9iz+rDks7sKzmtZ48q7QHVM=")
 kg.loginResult()
 
 kh = LINETCR.LINE()
-kh.login(qr=True)
+kh.login(token="Emq4iaP5toSDPvY33GWd.2LoE6VMBQSoJV0xj2s8CRq.MdcwKXXf4/iGD73WBxmzDGajg02SAUH5y/Qm21ftvhs=")
 kh.loginResult()
 
 kj = LINETCR.LINE()
-kj.login(qr=True)
+kj.login(token="EmDgHCS2au797sJXV7l1.g6FOp0t4PxDBHY58MdDjSq.SOpvVx0ee2KZJVrF4CdJi3sCTYfke+wUrSi57/svigM=")
 kj.loginResult()
 
 kl = LINETCR.LINE()
-kl.login(qr=True)
+kl.login(token="EmvEEvB0owIRu8VhK8n7.0PhcaDg6BmNNypOZPKzWPW.AwT+5Mc8Tiy4+vg5cBorBKUm3nV6KGA47vYWel/SG/k=")
 kl.loginResult()
 
 print "BOT Siap"
