@@ -102,6 +102,16 @@ helpMessage ="""    By.Susu
 
 """
 KAC=[cl,ki,kk,kc,kd,ke,kf,kg,kh,kj,kl]
+KAB1 = ki.getProfile().mid
+KAB2 = kk.getProfile().mid
+KAB3 = kc.getProfile().mid
+KAB4 = kd.getProfile().mid
+KAB5 = ke.getProfile().mid
+KAB6 = kf.getProfile().mid
+KAB7 = kg.getProfile().mid
+KAB8 = kh.getProfile().mid
+KAB9 = kj.getProfile().mid
+KAB10 = kl.getProfile().mid
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
@@ -116,6 +126,50 @@ Jmid = kl.getProfile().mid
 
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,Jmid]
 admin=["u2c7f708769a2eb35d9ae9f73cd366e0b"]
+
+me = cl.getProfile().mid
+bot1 = cl.getProfile().mid
+main = cl.getProfile().mid
+kicker1 = ki.getProfile().mid
+kicker2 = kk.getProfile().mid
+kicker3 = kc.getProfile().mid
+kicker4 = kd.getProfile().mid
+kicker5 = ke.getProfile().mid
+kicker6 = kf.getProfile().mid
+kicker7 = kg.getProfile().mid
+kicker8 = kh.getProfile().mid
+kicker9 = kj.getProfile().mid
+kicker10 = kl.getProfile().mid
+bots = me + kicker1
+protectname = []
+protecturl = []
+protection = []
+autocancel = {}
+autoinvite = []
+autoleaveroom = []
+protecturl = []
+protection = []
+autocancel = {}
+autoinvite = []
+autoleaveroom = []
+
+admins = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
+Rx10 = ["u33fab009d719040149bce490cfe33929"]
+Rx9 = ["u33fab009d719040149bce490cfe33929"]
+Rx8 = ["u33fab009d719040149bce490cfe33929"]
+Rx7 = ["u33fab009d719040149bce490cfe33929"]
+Rx6 = ["u33fab009d719040149bce490cfe33929"]
+Rx5 = ["ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","u2dca8b90516945d563e1cf62d3515be2"]
+Rx4 = ["ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","u2dca8b90516945d563e1cf62d3515be2"]
+Rx3 = ["ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","u2dca8b90516945d563e1cf62d3515be2"]
+Rx2 = ["ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","u2dca8b90516945d563e1cf62d3515be2"]
+Rx1 = ["ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","u2dca8b90516945d563e1cf62d3515be2"]
+Administrator = admins  Rx10 + Rx9 + Rx8 + Rx7 + Rx6 + Rx5 + Rx4 + Rx3 + Rx2 + Rx1
+AS = Rx2 + Rx1 + Rx3 + Rx4 + Rx5 + Rx6 + Rx7 + Rx8 + Rx9 + Rx10
+adminsA = admins + Rx3 + Rx5 + Rx10
+
+omikuzi = ["大吉","中吉","小吉","末吉","大凶","凶","中吉","小吉","末吉","大凶","凶"]
+
 wait = {
     'contact':True,
     'autoJoin':True,
