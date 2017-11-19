@@ -49,7 +49,7 @@ kl = LINETCR.LINE()
 kl.login(token="EmvEEvB0owIRu8VhK8n7.0PhcaDg6BmNNypOZPKzWPW.AwT+5Mc8Tiy4+vg5cBorBKUm3nV6KGA47vYWel/SG/k=")
 kl.loginResult()
 
-print "BOT Siap"
+print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
