@@ -1,35 +1,35 @@
 # -*- coding: utf-8 -*-
-import LineAlpha
+import LINETCR
 import time
 import sys
 import datetime
 import urllib
 
-kokoa = LineAlpha.LINE()
-tino = LineAlpha.LINE()
-rize = LineAlpha.LINE()
-chiya = LineAlpha.LINE()
-syaro = LineAlpha.LINE()
-moka = LineAlpha.LINE()
-megu = LineAlpha.LINE()
+kokoa = LINETCR.LINE()
+tino = LINETCR.LINE()
+rize = LINETCR.LINE()
+chiya = LINETCR.LINE()
+syaro = LINETCR.LINE()
+moka = LINETCR.LINE()
+megu = LINETCR.LINE()
 
-kokoa.login(token="Ej7YaHUXTxGtdbfnz1v3.EhDGNDAOnnY5Q71Ih5Ed4W.0lEdrn3NZ8cUCfgffOM6V2RUsix6q9vM1Ox4ZDNYSq8=")
+kokoa.login(token="EmMNxkESqtLLGdYimFx2.lCQlKffPrDvJ4C9I01fB4G.Mi9qkLaNGflBN5yHA7bBxM+zeW4zDyttagUtbJq73lQ=")
 kokoa.loginResult()
-tino.login(token="EjHYOuiqaVJN3qtS3Ji8.ycI7RcwrN3L9lxEEaw0Gka.2Ufd6TWoFKK1KpfhVPUsiKAbevHg8ydZaIiB2vYw/Mo=")
+tino.login(token="Emp1ze1uZVSmIb6R1JD4.nVVrGx/cv6f5b03ArGFU5a.FVXgKB5umtIsSaLX3wEd//9PQvSLfJ0hFQD5DSlUkzw=")
 tino.loginResult()
-rize.login(token="EjMyHxf6Lb59iHpdLPL6.WJ5rCz2wuZjEiH3XqqKETG.V3433V24Z2bL4EY1P+/iGN89+tB/McX7q520xFAJ9Ms=")
+rize.login(token="EmXghEnhwPcp05GrCJOf.2Ad+jSMK5L577woncnuh7W.2ypZiZCTMdgCQiCkMI77WJJWDgnJ+1b3xLpuZ2cUFnY=")
 rize.loginResult()
-chiya.login(token="EjQCvjsSPnVM68au1ix2.UvGOqKuwX0HLOb2siq7KCG.OZGk+X9amTofiKo+itWBIwdTJLEW2RlU7o3004vjiAA=")
+chiya.login(token="EmQUsLtqrrg5dPDpk9R3.WYwUmPddvCwHomBR1CqRKW.KTi5YyuOFsP6+76NYf8Y9iz+rDks7sKzmtZ48q7QHVM=")
 chiya.loginResult()
-syaro.login(token="EjQ4YLEk8TfIEMUtXnk5.2hseqmedaQXreMW3vyixXq.bu1mg/lDLsqIIa6TIcIh8PmqsqceC2raxjjvH77HMZY=")
+syaro.login(token="Emq4iaP5toSDPvY33GWd.2LoE6VMBQSoJV0xj2s8CRq.MdcwKXXf4/iGD73WBxmzDGajg02SAUH5y/Qm21ftvhs=")
 syaro.loginResult()
-moka.login(token="EjYeFC9pkHf0Ngii02D9.gBtchGsw4TDmg/e9sY+O2q.MjhUq6C4eU6HcUSSx1LSAddiWXz5xmXvHFLYIHAPjiA=")
+moka.login(token="EmDgHCS2au797sJXV7l1.g6FOp0t4PxDBHY58MdDjSq.SOpvVx0ee2KZJVrF4CdJi3sCTYfke+wUrSi57/svigM=")
 moka.loginResult()
-megu.login(token="EjvNR97DIzfsThhSc2G3.Ha95CymqKT4F66sUBUpBiW.HY/WowA+tqNyeh+Tj3PIBRRKV5Q6GQgn3hXGO3tKjLE=")
+megu.login(token="EmvEEvB0owIRu8VhK8n7.0PhcaDg6BmNNypOZPKzWPW.AwT+5Mc8Tiy4+vg5cBorBKUm3nV6KGA47vYWel/SG/k=")
 megu.loginResult()
 
 #blackList
-b = ["u9461ef1176dce5d222b1d24fdbb08d54","ub964dc500b2de8a3b1e591ec50a8ed79","uc23e51719d9653325e221df141091eb6","u6028bbac25919f797d2d779e016d2028","ub95828424516c74865a01d92210ee472","u7877609dd6a834dcb9abbd621f9783e3"]
+b = ["u2c7f708769a2eb35d9ae9f73cd366e0b","u186cf7940c7de8f76a3cbc76405f5f5c"]
 #admins
 dp = ["u5f0e86fcdb62f7ce4f4394aa400983d0"]
 rt = ["u5f0e86fcdb62f7ce4f4394aa400983d0","uf0383cc3d7ddcec7cd89cd855fe0ae4e","u56580388daf652254e4afc1dab9d2344","u79cb9ae7e629e9ee426ba565e413b251","ua057f8fe7e0486a9cb9f5d7c5e7dcd9a","ub390307c2e43a38138b555a923ee7b13","u08db961c53276824542d1e90e6242c9d","ufd18e9b10bf240f60e979d91d330eb9d"]
