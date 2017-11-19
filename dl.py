@@ -14,7 +14,7 @@ kk.login(token="Em64SBKMIX41SeMCKQb4.Taq4zRpoy8MaIjFbl09Fba.Jba5o2kqfG1DSlYTlcQ/
 kk.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token='Em9VIKsTiaGIlsZcFPI9.m+QWcDCzbafjVosqZ/m5kq.ohwyKEn/Ge0jdJDuT4PnAX/QVpljjPiKDsSn+gFhwuI=")
+ki.login(token="Em9VIKsTiaGIlsZcFPI9.m+QWcDCzbafjVosqZ/m5kq.ohwyKEn/Ge0jdJDuT4PnAX/QVpljjPiKDsSn+gFhwuI=")
 ki.loginResult()
 
 kc = LINETCR.LINE()
@@ -26,34 +26,34 @@ kd.login(token='EmMNxkESqtLLGdYimFx2.lCQlKffPrDvJ4C9I01fB4G.Mi9qkLaNGflBN5yHA7bB
 kd.loginResult()
 
 ke = LINETCR.LINE()
-ke.login(token='"Emp1ze1uZVSmIb6R1JD4.nVVrGx/cv6f5b03ArGFU5a.FVXgKB5umtIsSaLX3wEd//9PQvSLfJ0hFQD5DSlUkzw=")
+ke.login(token="Emp1ze1uZVSmIb6R1JD4.nVVrGx/cv6f5b03ArGFU5a.FVXgKB5umtIsSaLX3wEd//9PQvSLfJ0hFQD5DSlUkzw=")
 ke.loginResult()
 
 kf = LINETCR.LINE()
-kf.login(token='
+kf.login(qr=True(
 kf.loginResult()
 
 kg = LINETCR.LINE()
-kg.login(token=)
+kg.login(qr=True)
 kg.loginResult()
 
 kh = LINETCR.LINE()
-kh.login(token='')
+kh.login(qr=True)
 kh.loginResult()
 
 kj = LINETCR.LINE()
-kj.login(token='')
+kj.login(qr=True)
 kj.loginResult()
 
 kl = LINETCR.LINE()
-kl.login(token='=')
+kl.login(qr=True)
 kl.loginResult()
 
 print "BOT Siap"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""         ♻♻♻ DL B
+helpMessage ="""    By.Susu     
 
 
 ➡ Me/Kontak Tiap Bot
