@@ -167,7 +167,7 @@ Rx1 = ["ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","
 
 Administrator = admins  Rx10 + Rx9 + Rx8 + Rx7 + Rx6 + Rx5 + Rx4 + Rx3 + Rx2 + Rx1
 AS = Rx2 + Rx1 + Rx3 + Rx4 + Rx5 + Rx6 + Rx7 + Rx8 + Rx9 + Rx10
-adminsA = admins + Rx3 + Rx5 + Rx10
+adminsA = admins + Rx3 + Rx5 
 
 omikuzi = ["大吉","中吉","小吉","末吉","大凶","凶","中吉","小吉","末吉","大凶","凶"]
 
