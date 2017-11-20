@@ -13,7 +13,7 @@ syaro = LINETCR.LINE()
 moka = LINETCR.LINE()
 megu = LINETCR.LINE()
 
-kokoa.login(token="EmMNxkESqtLLGdYimFx2.lCQlKffPrDvJ4C9I01fB4G.Mi9qkLaNGflBN5yHA7bBxM+zeW4zDyttagUtbJq73lQ=")
+kokoa.login(qr=True)
 kokoa.loginResult()
 tino.login(token="Emp1ze1uZVSmIb6R1JD4.nVVrGx/cv6f5b03ArGFU5a.FVXgKB5umtIsSaLX3wEd//9PQvSLfJ0hFQD5DSlUkzw=")
 tino.loginResult()
