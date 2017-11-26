@@ -356,7 +356,7 @@ def bot(op):
 					ks.kickoutFromGroup(op.param1,[op.param2])
 					kc.kickoutFromGroup(op.param1,[op.param2])
 					ka.kickoutFromGroup(op.param1,[op.param2])
-					ko.kickoutFromGroup(op.param1,[op.param2]
+					ko.kickoutFromGroup(op.param1,[op.param2])
 					kj.kickoutFromGroup(op.param1,[op.param2])
 		if op.type == 25:
 			if mid in op.param3:
