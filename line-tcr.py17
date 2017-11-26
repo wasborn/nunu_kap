@@ -262,7 +262,8 @@ def bot(op):
                         cl.kickoutFromGroup(msg.to,[jj])
                     cl.sendText(msg.to,"Blacklist user flushing is complete")
            
-	   if op.type == 11:
+	  
+        if op.type == 11:
             if op.param3 == '1':
                 if op.param1 in wait['pname']:
                     try:
@@ -282,7 +283,7 @@ def bot(op):
 				    except:
 					try:
                                             G = kc.getGroup(op.param1)
-                                        except:															
+                                        except:
                                             pass
                     G.name = wait['pro_name'][op.param1]
                     try:
