@@ -1935,7 +1935,7 @@ def bot(op):
                     for mi_d in wait["blacklist"]:
                         mc += "・" +cl.getContact(mi_d).displayName + "\n"
                     cl.sendText(msg.to,mc)
-            elif msg.text in ["Blist","เชคดำ"]:
+            elif msg.text in ["Blist"]:
                 if msg.toType == 2:
                     group = cl.getGroup(msg.to)
                     gMembMids = [contact.mid for contact in group.members]
@@ -2020,27 +2020,29 @@ def bot(op):
                     ka.sendText(msg.to," " + string + " ")    
 		    ko.sendText(msg.to," " + string + " ")
 		    kj.sendText(msg.to," " + string + " ")
-#-----------------------------------------------
-            elif "Speed" in msg.text:
+ #===============================================
+            elif msg.text in ["Sp","sp"]:
+                cl.sendText(msg.to, "Progress.......")
                 start = time.time()
-                cl.sendText(msg.to, "ƛƇƇЄƧƧ ƧƤЄЄƊ ƜƛƖƬƖƝƓ")
+                time.sleep(0.001)
                 elapsed_time = time.time() - start
-                cl.sendText(msg.to, "%sseconds" % (elapsed_time))  
-		elapsed_time = time.time() - start
-                ki.sendText(msg.to, "%sseconds" % (elapsed_time))  
-		elapsed_time = time.time() - start
-                kk.sendText(msg.to, "%sseconds" % (elapsed_time))  
-		elapsed_time = time.time() - start
-                ks.sendText(msg.to, "%sseconds" % (elapsed_time))  
-		elapsed_time = time.time() - start
-                kc.sendText(msg.to, "%sseconds" % (elapsed_time))  
-		elapsed_time = time.time() - start
+                cl.sendText(msg.to, "%sseconds" % (elapsed_time))    
+                print "[Command]Speed palsu executed"
+            elif msg.text in ["Bot Speed"]:
+                cl.sendText(msg.to, "Progress.......")
+                start = time.time()
+                time.sleep(0.001)
+                elapsed_time = time.time() - start
+                ki.sendText(msg.to, "%sseconds" % (elapsed_time))    
+                kk.sendText(msg.to, "%sseconds" % (elapsed_time))    
+                ks.sendText(msg.to, "%sseconds" % (elapsed_time))    
+                kc.sendText(msg.to, "%sseconds" % (elapsed_time))    
                 ka.sendText(msg.to, "%sseconds" % (elapsed_time))
-		elapsed_time = time.time() - start
-                ko.sendText(msg.to, "%sseconds" % (elapsed_time))
-		elapsed_time = time.time() - start
+		ko.sendText(msg.to, "%sseconds" % (elapsed_time))    
                 kj.sendText(msg.to, "%sseconds" % (elapsed_time))
-#-----------------------------------------------             
+                print "[Command]Speed palsu executed"
+                		             
+#========================================        
         if op.type == 19:
             try:
                 if op.param3 in mid:
