@@ -9,7 +9,7 @@ import re,string,os
 import os.path,sys,urllib,shutil,subprocess
 
 cl = LINETCR.LINE()
-cl.login(qr=True)
+cl.login(token="EnRC49Z3mewgjMAUgsob.lh9WH2MI6ZxzRP9ZZtzUcW.Ekr9a6h3e5xRi7i8pKFmHXPl4lw3jwEoR+h5FW4biHM=")
 cl.loginResult()
 
 ki = LINETCR.LINE()
