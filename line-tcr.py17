@@ -1569,6 +1569,60 @@ def bot(op):
 							except:
 									ka.kickoutFromGroup(msg.to, [target])							   
 									pass			
+					
+	    elif "K6 kick" in msg.text:
+				OWN = "u2dca8b90516945d563e1cf62d3515be2","u2c7f708769a2eb35d9ae9f73cd366e0b"
+				if msg.from_ in OWN:
+					pass
+				else:
+					nk0 = msg.text.replace("K6 kick","")
+					nk1 = nk0.lstrip()
+					nk2 = nk1.replace("@","")
+					nk3 = nk2.rstrip()
+					_name = nk3
+					gs = ki.getGroup(msg.to)
+					targets = []
+					for h in gs.members:
+						if _name in h.displayName:
+							targets.append(h.mid)
+					if targets == []:
+						sendMessage(msg.to,"ƲƧЄƦ ƊƠЄƧ ƝƠƬ ЄҲƖƧƬ")
+						pass
+					else:
+						for target in targets:
+							try:
+								if msg.from_ not in target:
+									ko.kickoutFromGroup(msg.to, [target])							   
+							except:
+									ko.kickoutFromGroup(msg.to, [target])							   
+									pass			
+					
+	    elif "K7 kick" in msg.text:
+				OWN = "u2dca8b90516945d563e1cf62d3515be2","u2c7f708769a2eb35d9ae9f73cd366e0b"
+				if msg.from_ in OWN:
+					pass
+				else:
+					nk0 = msg.text.replace("K7 kick","")
+					nk1 = nk0.lstrip()
+					nk2 = nk1.replace("@","")
+					nk3 = nk2.rstrip()
+					_name = nk3
+					gs = ki.getGroup(msg.to)
+					targets = []
+					for h in gs.members:
+						if _name in h.displayName:
+							targets.append(h.mid)
+					if targets == []:
+						sendMessage(msg.to,"ƲƧЄƦ ƊƠЄƧ ƝƠƬ ЄҲƖƧƬ")
+						pass
+					else:
+						for target in targets:
+							try:
+								if msg.from_ not in target:
+									kj.kickoutFromGroup(msg.to, [target])							   
+							except:
+									kj.kickoutFromGroup(msg.to, [target])							   
+									pass			
 									
             elif "Ban " in msg.text:
                 if msg.toType == 2:
