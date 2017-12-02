@@ -133,6 +133,7 @@ Bots=[mid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid]
 admin = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
 staff = [""]
 adminMID = [""]
+
 me = cl.getProfile().mid
 bot1 = cl.getProfile().mid
 main = cl.getProfile().mid
