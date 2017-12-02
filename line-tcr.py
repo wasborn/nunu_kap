@@ -10,10 +10,28 @@ cl.login(qr=True)
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(qr=True)
+ki.login(token="EniWLZyg7M2xn7ZWLEi4.Taq4zRpoy8MaIjFbl09Fba.ZvAgOFZEGGWB1pNf6KQuYdtWXhbz+ahXwvqVNIS38I4=")
 ki.loginResult()
 
-ki = kk = kc = ky = cl 
+ki2 = LINETCR.LINE()
+ki2.login(token="En6JnQYmSbud2UhirOB9.m+QWcDCzbafjVosqZ/m5kq.V8ZxtADEcZrvKSmOLmtrBtAkRuirBa7E4FYQ5PvQ5WA=")
+ki2.loginResult()
+
+ki3 = LINETCR.LINE()
+ki3.login(token="EnorFuNfQuWsL7Oao0O2.95DDfpXOzsm0FioN2vCdmG.qfm/65MnINdAiJp1WlrE7znBn5L9csSSWTSXCnryENA=")
+ki3.loginResult()
+
+ki4 = LINETCR.LINE()
+ki4.login(token="EnnKn17f1WU18KJ9Rp07.0PhcaDg6BmNNypOZPKzWPW.+GJZb3EHRlU1fyH3nsr7VuyimvVVFk2eaNB1D/uJEa4=")
+ki4.loginResult()
+
+ki5 = LINETCR.LINE()
+ki5.login(token="Endc3mRumZVeSpnJelUf.2Ad+jSMK5L577woncnuh7W.A2a8Q176BBlcqx1B8CsNW9+5IGsDvR4S1ki7LdQ86ZA=")
+ki5.loginResult()
+
+ki6 = LINETCR.LINE()
+ki6.login(token="EnC38ZGeAcP4PLCWWx52.rm2ylLXzJpoyheGEx9PgmG.iFhJ0UeAvr8gIAbFmVhoLn2OVs/WWOm21nEGeJ25s3w=")
+ki6.loginResult()
 
 print u"login success"
 reload(sys)
@@ -96,15 +114,52 @@ helpMessage ="""        =====[C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̲̅�
    
 	        ⋆⋆[Selfbot Thailand]⋆⋆
 """
-helo=""
-
-KAC=[cl,ki,kk,kc]
+KAC = [mid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid]
+KAB1 = ki.getProfile().mid
+KAB2 = ki2.getProfile().mid
+KAB3 = ki3.getProfile().mid
+KAB4 = ki4.getProfile().mid
+KAB5 = ki5.getProfile().mid
+KAB6 = ki6.getProfile().mid
 mid = cl.getProfile().mid
-Amid = kk.getProfile().mid
-Bmid = ki.getProfile().mid
-Cmid = kc.getProfile().mid
-Bots = [mid,Amid,Bmid,Cmid,]
+kimid = ki.getProfile().mid
+ki2mid = ki2.getProfile().mid
+ki3mid = ki3.getProfile().mid
+ki4mid = ki4.getProfile().mid
+ki5mid = ki5.getProfile().mid
+ki6mid = ki6.getProfile().mid
+
+Bots=[mid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid]
 admin = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
+me = cl.getProfile().mid
+bot1 = cl.getProfile().mid
+main = cl.getProfile().mid
+kicker1 = ki.getProfile().mid
+kicker2 = ki2.getProfile().mid
+kicker3 = ki3.getProfile().mid
+kicker4 = ki4.getProfile().mid
+kicker5 = ki5.getProfile().mid
+kicker6 = ki6.getProfile().mi
+bots = me + kicker1
+protectname = []
+protecturl = []
+protection = []
+autocancel = {}
+autoinvite = []
+autoleaveroom = []
+
+admins = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
+Rx6 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
+Rx5 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
+Rx4 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
+Rx3 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
+Rx2 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
+Rx1 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
+Administrator = admins + Rx7 + Rx6 + Rx5 + Rx4 + Rx3 + Rx2 + Rx1
+AS = Rx2 + Rx1 + Rx3 + Rx4 + Rx5 +Rx6 +Rx7
+adminsA = admins + Rx3 + Rx5 + Rx7
+
+omikuzi = ["大吉","中吉","小吉","末吉","大凶","凶"]
 staff = [""]
 adminMID = [""]
 
