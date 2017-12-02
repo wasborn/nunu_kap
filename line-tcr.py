@@ -114,7 +114,7 @@ helpMessage ="""        =====[C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̲̅�
    
 	        ⋆⋆[Selfbot Thailand]⋆⋆
 """
-KAC = [mid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid]
+KAC = [cl,ki,ki2,ki3,ki4,ki5,ki6]
 KAB1 = ki.getProfile().mid
 KAB2 = ki2.getProfile().mid
 KAB3 = ki3.getProfile().mid
