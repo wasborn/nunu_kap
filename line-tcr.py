@@ -131,6 +131,8 @@ ki6mid = ki6.getProfile().mid
 
 Bots=[mid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid]
 admin = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
+staff = [""]
+adminMID = [""]
 me = cl.getProfile().mid
 bot1 = cl.getProfile().mid
 main = cl.getProfile().mid
@@ -155,13 +157,11 @@ Rx4 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","
 Rx3 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
 Rx2 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
 Rx1 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
-Administrator = admins + Rx7 + Rx6 + Rx5 + Rx4 + Rx3 + Rx2 + Rx1
-AS = Rx2 + Rx1 + Rx3 + Rx4 + Rx5 +Rx6 +Rx7
-adminsA = admins + Rx3 + Rx5 + Rx7
+Administrator = admins + Rx6 + Rx5 + Rx4 + Rx3 + Rx2 + Rx1
+AS = Rx2 + Rx1 + Rx3 + Rx4 + Rx5 +Rx6 
+adminsA = admins + Rx3 + Rx6
 
 omikuzi = ["大吉","中吉","小吉","末吉","大凶","凶"]
-staff = [""]
-adminMID = [""]
 
 wait = {
     'contact':False,
