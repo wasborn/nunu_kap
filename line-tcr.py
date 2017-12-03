@@ -129,7 +129,8 @@ ki4mid = ki4.getProfile().mid
 ki5mid = ki5.getProfile().mid
 ki6mid = ki6.getProfile().mid
 
-Bots=[mid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid]
+
+Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid]
 admin = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
 staff = [""]
 adminMID = [""]
