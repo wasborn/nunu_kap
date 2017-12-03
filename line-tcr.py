@@ -37,7 +37,7 @@ print u"login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""        =====[C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅ᴅ̶̲̅]=====
+helpMessage ="""       ꧁🍁✟ゆຸ۞のุს🍁꧂ 
 
 🍎 [Id]
 🍎 [Mid]
@@ -108,11 +108,11 @@ helpMessage ="""        =====[C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̲̅�
 🍎 Respons
 🍎 Bye all        
   
-            ✯==== Creator ====✯
+                    ꧁🍁✟ゆຸ۞のุს🍁꧂
 	
 		http://line.me/ti/p/~0647706747
    
-	        ⋆⋆[Selfbot Thailand]⋆⋆
+	        ⋆⋆[ ꧁🍁✟ゆຸ۞のุს🍁꧂ ]⋆⋆
 """
 KAC = [cl,ki,ki2,ki3,ki4,ki5,ki6]
 KAB1 = ki.getProfile().mid
