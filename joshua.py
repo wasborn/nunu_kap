@@ -5,52 +5,39 @@ from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
 import time,random,sys,re,os,json,subprocess,codecs,threading,glob
 
-cl = LINETCR.LINE() 
-cl.login(token="EmfDb1fJmfhSpd7MRDO3.k0v7hVG5hUrrYAiSG14EmW.joks2/Jl0iTElLIOyVXaBvO4/RLeWlN201DRz6uInG4=")
+cl = LINETCR.LINE()
+cl.login(token="EnHM8JxZ3Ydutyryg3qb.lh9WH2MI6ZxzRP9ZZtzUcW.2gGmELRSCaskXwe2twpd280tycv2T3Vo6WvHbPYwVWg=")
 cl.loginResult()
 
-ki = LINETCR.LINE() 
-ki.login(token="EmOYUW04NjdwQ0Egp0yc.rhpLr3SAdszTXVT7mquhFa.S5do2/SexV13vqqlLxZu2YGa7nMQrXAHWAA741Qkr6w=")
+ki = LINETCR.LINE()
+ki.login(token="EniWLZyg7M2xn7ZWLEi4.Taq4zRpoy8MaIjFbl09Fba.ZvAgOFZEGGWB1pNf6KQuYdtWXhbz+ahXwvqVNIS38I4=")
 ki.loginResult()
 
-ki2 = LINETCR.LINE() 
-ki2.login(token="EmqhkSjjanO3TZybM5ic.ak/Sv6i97NA4kP02HPjppa.1FCJ0IfHD+s2Z09n0zCcCzimmonhEdGVib7uvByAsEg=")
+ki2 = LINETCR.LINE()
+ki2.login(token="En6JnQYmSbud2UhirOB9.m+QWcDCzbafjVosqZ/m5kq.V8ZxtADEcZrvKSmOLmtrBtAkRuirBa7E4FYQ5PvQ5WA=")
 ki2.loginResult()
 
-ki3 = LINETCR.LINE() 
-ki3.login(token="Em08TaEXHe0F19o0wCyb.Ya5qlGguSAMcSJXarn/32W.gxg7+9NTcAX38/06Up7TdjDhGNoQLLU+JB9JDeiQx/A=")
+ki3 = LINETCR.LINE()
+ki3.login(token="EnorFuNfQuWsL7Oao0O2.95DDfpXOzsm0FioN2vCdmG.qfm/65MnINdAiJp1WlrE7znBn5L9csSSWTSXCnryENA=")
 ki3.loginResult()
 
-ki4 = LINETCR.LINE() 
-ki4.login(token="EmUdQL0Zlff06r9Ni2rd.5KRnz72PA/njFcuaZfZ8Vq.Wv+WgeHrua7c3eGKu+iL8dUqq32e6vBUaNMB/qK2uKQ=")
+ki4 = LINETCR.LINE()
+ki4.login(token="EnnKn17f1WU18KJ9Rp07.0PhcaDg6BmNNypOZPKzWPW.+GJZb3EHRlU1fyH3nsr7VuyimvVVFk2eaNB1D/uJEa4=")
 ki4.loginResult()
 
-ki5 = LINETCR.LINE() 
-ki5.login(token="EmISor3xLZKGj4hVRTZd.8EAJfZKSWnu+UKVyoveEFq.jnHC7WzGMsE81zIK4yXycEiQ1tDCcCekVh1+7Q8jOFE=")
+ki5 = LINETCR.LINE()
+ki5.login(token="Endc3mRumZVeSpnJelUf.2Ad+jSMK5L577woncnuh7W.A2a8Q176BBlcqx1B8CsNW9+5IGsDvR4S1ki7LdQ86ZA=")
 ki5.loginResult()
 
-ki6 = LINETCR.LINE() 
-ki6.login(token="EmMMuNRe83yPuj6q6p8b.APMuxn4klNQaVTkmpnh3IW.RDN2hliFiDG1mf8sApBCB5ferK+9ga3FE1i+Wxk8Kdw=")
+ki6 = LINETCR.LINE()
+ki6.login(token="EnC38ZGeAcP4PLCWWx52.rm2ylLXzJpoyheGEx9PgmG.iFhJ0UeAvr8gIAbFmVhoLn2OVs/WWOm21nEGeJ25s3w=")
 ki6.loginResult()
-
-
-#ki4 = KITSUNEBOT.LINE()
-#ki4.login(token="Ekp9DIn7ZOF68PRT6NE2.ptORzz3sLbeG01QeTJsgeG.+43NBwiGAyx/HLhTUjf5hfcefo/pRN+IPs89ptqCQxQ=")
-#ki4.loginResult()
-
-#ki5 = KITSUNEBOT.LINE()
-#ki5.login(token="EkZI8XiCp5ZTkYU29tC5.zNVivIokyd1dCo0dpANHvq.0LNZCi0tmVpGnI+hRRRA5P0wfU4xDv+PpBNcGYD0sY4=")
-#ki5.loginResult()
-
-#ki6 = KITSUNEBOT.LINE()
-#ki6.login(token="EkJ5l49Apx6J60DHyfU4.tWI+bgToteDmanSLf3rEza.HEEAt8Hc5NEThS7g7tKGBL89uHYdJGZSOIc6N5deibQ=")
-#ki6.loginResult()
 
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""       Self Bots Command:『JOSHUA™』
+helpMessage ="""       Self Bot
   [C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅ᴅ̶̲̅]
 🔯[Id]􀜁􀇔􏿿
 🔯[Mid]
@@ -87,43 +74,49 @@ helpMessage ="""       Self Bots Command:『JOSHUA™』
   
   [C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅ᴅ̶̲̅ ̶̲̅ɪ̶̲̅ɴ̶̲̅ ̶̲̅G̶̲̅ʀ̶̲̅ᴏ̶̲̅ᴜ̶̲̅ᴘ̶̲̅]
 
-🎲 [Link on]
-🎲 [Link off] 
-🎲 [Invite「mid」]
-🎲􀜁[Kmid: Kick by mid] 
-🎲 [Ginfo] 
-🎲 [Cancel] 
-🎲 [Backup]
-🎲 [Gn 「Nama grup」 
-🎲 [Gurl]
-🎲􀜁 [gurl「kelompok ID]
-🎲 [Nk「nama」] 
-🎲 [Bye ]
-🎲 [Ban:] 
-🎲 [Unban:]
-🎲 [Protect on] 
-🎲 [Qr on/off] 
-🎲 [Invite on] 
-🎲 [Cancel on] 
-🎲 [Copy @] 
-🎲 [Kembali]
-🎲 [Ccopy @]
+🍎 [Link on]
+🍎 [Link off] 
+🍎 [Invite「mid」]
+🍎 [Kmid: Kick by mid] 
+🍎 [Ginfo] 
+🍎 [Cancel] 
+🍎 [Backup]
+🍎 [Gn 「Nama grup」 
+🍎 [Gurl]
+🍎 [gurl「kelompok ID]
+🍎 [Nk「nama」] 
+🍎 [Bye ]
+🍎 [Ban:] 
+🍎 [Unban:]
+🍎 [Protect on] 
+🍎 [Qr on/off] 
+🍎 [Invite on] 
+🍎 [Cancel on] 
+🍎 [Copy @] 
+🍎 [Kembali]
+🍎 [Ccopy @]
 
 􀜁􀇔􏿿 COMMAND Protect 􀜁􀇔􏿿
 
-🌀 Bot all
-🌀 Bot Key
-🌀􀜁Bot1-6 in
-🌀 Bot1-6 bye
-🌀 Respons
-🌀 Bye all        
+🍎 Bot all
+🍎 Bot Key
+🍎 Bot1-6 in
+🍎 Bot1-6 bye
+🍎 Respons
+🍎 Bye all        
   
           ☆ F̧͈̤̱͎̱̤̞̭̐͒́̀͗͞Ḷ̵̻̝̘͍̏̃͊̉͠Ŏ̩͖͎̹̫͈̏́̑́W ̤̲̯̤̹̲̲̘̈́̿͒ͅĮ̶̼̲̺̣̬̔̿͐̾̾Ṇ̶̨̛̲̭̝̲̝̪̎̾̈́͘͢͜͞S͎̱̺̜̀̿͘̕̕͢P̴̡͈̖̺͖̙̝̩̞̐̂̀͂̏̚͟͠EC̸̡̩̣̲̣̜̊̾͊̃͜ͅT B̵̧͔̟̫̰̮̺̟̥̋̂͋͐͛͑̔̚̚O̷̧̺̠̰̳̿́͆̕̕͠ͅ T̶͖̜̻̰͍̮̼́̐̑͒́̕ͅ ☆
-          http://line.me/ti/p/~joshuasiregaar
+          
 """
 helo=""
 
 KAC=[cl,ki,ki2,ki3,ki4,ki5,ki6]
+KAB1 = ki.getProfile().mid
+KAB2 = ki2.getProfile().mid
+KAB3 = ki3.getProfile().mid
+KAB4 = ki4.getProfile().mid
+KAB5 = ki5.getProfile().mid
+KAB6 = ki6.getProfile().mid
 mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 ki2mid = ki2.getProfile().mid
@@ -132,8 +125,41 @@ ki4mid = ki4.getProfile().mid
 ki5mid = ki5.getProfile().mid
 ki5mid = ki5.getProfile().mid
 ki6mid = ki6.getProfile().mid
+
 Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid]
-admsa = "u2b457b1ef8391ee451c9a22c835e1e33"
+admin = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
+staff = [""]
+adminMID = [""]
+
+me = cl.getProfile().mid
+bot1 = cl.getProfile().mid
+main = cl.getProfile().mid
+kicker1 = ki.getProfile().mid
+kicker2 = ki2.getProfile().mid
+kicker3 = ki3.getProfile().mid
+kicker4 = ki4.getProfile().mid
+kicker5 = ki5.getProfile().mid
+kicker6 = ki6.getProfile().mid
+bots = me + kicker1
+protectname = []
+protecturl = []
+protection = []
+autocancel = {}
+autoinvite = []
+autoleaveroom = []
+
+admins = ["u2c7f708769a2eb35d9ae9f73cd366e0b"]
+Rx6 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
+Rx5 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
+Rx4 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
+Rx3 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
+Rx2 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
+Rx1 = ["u2c7f708769a2eb35d9ae9f73cd366e0b","ub4043866b3ce63c9808897c12f4f5f04","u33fab009d719040149bce490cfe33929","uf7975d14fc686523347c83a7d9570332","ud291c201d1ba6cc9e760fa33a64670a7","ud9a0ff26c9a4e65e7bed638d08d507ef","u44cd982e5c598cf3981c481e5fda4632","u44cd982e5c598cf3981c481e5fda4632","u61bbdbb69487e832635f2786144258d6"]
+Administrator = admins + Rx6 + Rx5 + Rx4 + Rx3 + Rx2 + Rx1
+AS = Rx2 + Rx1 + Rx3 + Rx4 + Rx5 +Rx6 
+adminsA = admins + Rx3 + Rx6
+
+omikuzi = ["大吉","中吉","小吉","末吉","大凶","凶"]
 
 wait = {
     'contact':False,
