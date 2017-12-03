@@ -1896,7 +1896,7 @@ def bot(op):
                         pass
 #-----------------------------------------------
             elif "Kb Key" in msg.text:
-                ki.sendText(msg.to,"""      􀜁􀇔􏿿􀜁􀇔􏿿 KITSUNE BOT [KB] 􀜁􀇔􏿿􀜁􀇔􏿿  \n\n 􀜁􀇔􏿿 key Only Kicker 􀜁􀇔􏿿 \n\n􀜁􀇔􏿿[Kb1 in]\n􀜁􀇔􏿿[1Aditname:]\n􀜁􀇔􏿿[B Cancel]\n􀜁􀇔􏿿[kick @]\n􀜁􀇔􏿿[Ban @]\n􀜁􀇔􏿿[kill]\n􀜁􀇔􏿿[BotChat]\n􀜁􀇔􏿿[Respons]\n􀜁􀇔􏿿[Kb1 Gift]\n􀜁􀇔􏿿[Kb1 bye]\n\n   
+                ki.sendText(msg.to,"""      􀜁􀇔􏿿􀜁􀇔􏿿 KITSUNE BOT [KB] 􀜁􀇔􏿿􀜁􀇔􏿿  \n\n 🍎 key Only Kicker 🍎 \n\n🍎[Kb1 in]\n🍎[1Aditname:]\n🍎[B Cancel]\n🍎[kick @]\n🍎[Ban @]\n🍎[kill]\n🍎[BotChat]\n🍎[Respons]\n🍎[Kb1 Gift]\n🍎[Kb1 bye]\n\n   
   
         
   
@@ -1905,7 +1905,7 @@ def bot(op):
 
 
 """)
-                ki2.sendText(msg.to,"""     􀜁􀇔􏿿􀜁􀇔􏿿 KITSUNE BOT [KB] 􀜁􀇔􏿿􀜁􀇔􏿿  \n\n 􀜁􀇔􏿿 key Only Kicker 􀜁􀇔􏿿 \n\n􀜁􀇔􏿿[Kb2 in]\n􀜁􀇔􏿿[2Aditname:]\n􀜁􀇔􏿿[B Cancel]\n􀜁􀇔􏿿[kick @]\n􀜁􀇔􏿿[Ban @]\n􀜁􀇔􏿿[kill]\n􀜁􀇔􏿿[BotChat]\n􀜁􀇔􏿿[Respons]\n􀜁􀇔􏿿[Kb2 Gift]\n􀜁􀇔􏿿[Kb2 bye]\n\n     
+                ki2.sendText(msg.to,"""     􀜁􀇔􏿿􀜁􀇔􏿿 KITSUNE BOT [KB] 􀜁􀇔􏿿􀜁􀇔􏿿  \n\n 🍎 key Only Kicker 🍎 \n\n🍎[Kb2 in]\n🍎[2Aditname:]\n🍎[B Cancel]\n🍎[kick @]\n🍎[Ban @]\n🍎[kill]\n🍎[BotChat]\n🍎[Respons]\n🍎[Kb2 Gift]\n🍎[Kb2 bye]\n\n     
         
   
 ☆ Ķ͈̤̱͎̱̤̞̭͂̐͒́̀͗͞Ị̵̻̝̘͍͛̏̃͊̉͠ T̩͖͎̹̫͈̿̆̏́̑́S̤̲̯̤̹̲̲̘̏̋̈́̿͒ͅŲ̶̼̲̺̣̬̔̿͐̾̾͘Ṇ̶̨̛̲̭̝̲̝̪̎̾̈́͘͢͜͞É͎̱̺̜̐̀̿͘̕̕͢  B̴̡̛͈̖̺͖̙̝̩̞̐̂̀͂̏̚͟͠O̸̡̩̣̲̣̜̊̑̾̾͊̃͘͜ͅT Ç̵͔̟̫̰̮̺̟̥̂̋̂͋͐͛͑̔̚̚O̷̧̺̠̰̳̿́͆̕̕͠ͅ N̶͖̜̻̰͍̮̼̒́̐̑͒́̕ͅŢ̢̯̱͕̠͙̤̙̄̂͗̊̈́̕R̶̛̙̩̱̗̯͌̈͆̆Ơ̴̡͈̖̺͖̙̝̩̞̐̂̀͂̏̚͟͠L̸̡̩̣̲̣̜̊̑̾̾͊̃͘͜ͅ  ☆
@@ -1913,7 +1913,7 @@ def bot(op):
 
 
 """)
-                ki3.sendText(msg.to,"""     􀜁􀇔􏿿􀜁􀇔􏿿 KITSUNE BOT [KB] 􀜁􀇔􏿿􀜁􀇔􏿿  \n\n 􀜁􀇔􏿿 key Only Kicker 􀜁􀇔􏿿 \n\n􀜁􀇔􏿿[Kb3 in]\n􀜁􀇔􏿿[3Aditname:]\n􀜁􀇔􏿿[B Cancel]\n􀜁􀇔􏿿[kick @]\n􀜁􀇔􏿿[Ban @]\n􀜁􀇔􏿿[kill]\n􀜁􀇔􏿿[BotChat]\n􀜁􀇔􏿿[Respons]\n􀜁􀇔􏿿[Kb3 Gift]\n􀜁􀇔􏿿[Kb3 bye]\n\n     
+                ki3.sendText(msg.to,"""     􀜁􀇔􏿿􀜁􀇔􏿿 KITSUNE BOT [KB] 􀜁􀇔􏿿􀜁􀇔􏿿  \n\n 🍎 key Only Kicker 🍎 \n\n🍎[Kb3 in]\n🍎[3Aditname:]\n🍎[B Cancel]\n🍎[kick @]\n🍎[Ban @]\n🍎[kill]\n🍎[BotChat]\n🍎[Respons]\n🍎[Kb3 Gift]\n🍎[Kb3 bye]\n\n     
         
   
 ☆ Ķ͈̤̱͎̱̤̞̭͂̐͒́̀͗͞Ị̵̻̝̘͍͛̏̃͊̉͠ T̩͖͎̹̫͈̿̆̏́̑́S̤̲̯̤̹̲̲̘̏̋̈́̿͒ͅŲ̶̼̲̺̣̬̔̿͐̾̾͘Ṇ̶̨̛̲̭̝̲̝̪̎̾̈́͘͢͜͞É͎̱̺̜̐̀̿͘̕̕͢  B̴̡̛͈̖̺͖̙̝̩̞̐̂̀͂̏̚͟͠O̸̡̩̣̲̣̜̊̑̾̾͊̃͘͜ͅT Ç̵͔̟̫̰̮̺̟̥̂̋̂͋͐͛͑̔̚̚O̷̧̺̠̰̳̿́͆̕̕͠ͅ N̶͖̜̻̰͍̮̼̒́̐̑͒́̕ͅŢ̢̯̱͕̠͙̤̙̄̂͗̊̈́̕R̶̛̙̩̱̗̯͌̈͆̆Ơ̴̡͈̖̺͖̙̝̩̞̐̂̀͂̏̚͟͠L̸̡̩̣̲̣̜̊̑̾̾͊̃͘͜ͅ  ☆
@@ -1921,7 +1921,7 @@ def bot(op):
 
 
 """)
-                ki4.sendText(msg.to,"""     􀜁􀇔􏿿􀜁􀇔􏿿 KITSUNE BOT [KB] 􀜁􀇔􏿿􀜁􀇔􏿿  \n\n 􀜁􀇔􏿿 key Only Kicker 􀜁􀇔􏿿 \n\n􀜁􀇔􏿿[Kb4 in]\n􀜁􀇔􏿿[4Aditname:]\n􀜁􀇔􏿿[B Cancel]\n􀜁􀇔􏿿[kick @]\n􀜁􀇔􏿿[Ban @]\n􀜁􀇔􏿿[kill]\n􀜁􀇔􏿿[BotChat]\n􀜁􀇔􏿿[Respons]\n􀜁􀇔􏿿[Kb4 Gift]\n􀜁􀇔􏿿[Kb4 bye]\n\n     
+                ki4.sendText(msg.to,"""     􀜁􀇔􏿿􀜁􀇔􏿿 KITSUNE BOT [KB] 􀜁􀇔􏿿􀜁􀇔􏿿  \n\n 🍎 key Only Kicker 🍎 \n\n🍎[Kb4 in]\n🍎[4Aditname:]\n🍎[B Cancel]\n🍎[kick @]\n🍎[Ban @]\n🍎[kill]\n🍎[BotChat]\n🍎[Respons]\n🍎[Kb4 Gift]\n🍎[Kb4 bye]\n\n     
         
   
 ☆ Ķ͈̤̱͎̱̤̞̭͂̐͒́̀͗͞Ị̵̻̝̘͍͛̏̃͊̉͠ T̩͖͎̹̫͈̿̆̏́̑́S̤̲̯̤̹̲̲̘̏̋̈́̿͒ͅŲ̶̼̲̺̣̬̔̿͐̾̾͘Ṇ̶̨̛̲̭̝̲̝̪̎̾̈́͘͢͜͞É͎̱̺̜̐̀̿͘̕̕͢  B̴̡̛͈̖̺͖̙̝̩̞̐̂̀͂̏̚͟͠O̸̡̩̣̲̣̜̊̑̾̾͊̃͘͜ͅT Ç̵͔̟̫̰̮̺̟̥̂̋̂͋͐͛͑̔̚̚O̷̧̺̠̰̳̿́͆̕̕͠ͅ N̶͖̜̻̰͍̮̼̒́̐̑͒́̕ͅŢ̢̯̱͕̠͙̤̙̄̂͗̊̈́̕R̶̛̙̩̱̗̯͌̈͆̆Ơ̴̡͈̖̺͖̙̝̩̞̐̂̀͂̏̚͟͠L̸̡̩̣̲̣̜̊̑̾̾͊̃͘͜ͅ  ☆
@@ -1929,7 +1929,7 @@ def bot(op):
 
 
 """)
-                ki5.sendText(msg.to,"""     􀜁􀇔􏿿􀜁􀇔􏿿 KITSUNE BOT [KB] 􀜁􀇔􏿿􀜁􀇔􏿿  \n\n 􀜁􀇔􏿿 key Only Kicker 􀜁􀇔􏿿 \n\n􀜁􀇔􏿿[Kb5 in]\n􀜁􀇔􏿿[5Aditname:]\n􀜁􀇔􏿿[B Cancel]\n􀜁􀇔􏿿[kick @]\n􀜁􀇔􏿿[Ban @]\n􀜁􀇔􏿿[kill]\n􀜁􀇔􏿿[BotChat]\n􀜁􀇔􏿿[Respons]\n􀜁􀇔􏿿[Kb5 Gift]\n􀜁􀇔􏿿[Kb5 bye]\n\n     
+                ki5.sendText(msg.to,"""     􀜁􀇔􏿿􀜁􀇔􏿿 KITSUNE BOT [KB] 􀜁􀇔􏿿􀜁􀇔􏿿  \n\n 🍎 key Only Kicker 🍎 \n\n🍎[Kb5 in]\n🍎[5Aditname:]\n🍎[B Cancel]\n🍎[kick @]\n🍎[Ban @]\n🍎[kill]\n🍎[BotChat]\n🍎[Respons]\n🍎[Kb5 Gift]\n🍎[Kb5 bye]\n\n     
         
   
 ☆ Ķ͈̤̱͎̱̤̞̭͂̐͒́̀͗͞Ị̵̻̝̘͍͛̏̃͊̉͠ T̩͖͎̹̫͈̿̆̏́̑́S̤̲̯̤̹̲̲̘̏̋̈́̿͒ͅŲ̶̼̲̺̣̬̔̿͐̾̾͘Ṇ̶̨̛̲̭̝̲̝̪̎̾̈́͘͢͜͞É͎̱̺̜̐̀̿͘̕̕͢  B̴̡̛͈̖̺͖̙̝̩̞̐̂̀͂̏̚͟͠O̸̡̩̣̲̣̜̊̑̾̾͊̃͘͜ͅT Ç̵͔̟̫̰̮̺̟̥̂̋̂͋͐͛͑̔̚̚O̷̧̺̠̰̳̿́͆̕̕͠ͅ N̶͖̜̻̰͍̮̼̒́̐̑͒́̕ͅŢ̢̯̱͕̠͙̤̙̄̂͗̊̈́̕R̶̛̙̩̱̗̯͌̈͆̆Ơ̴̡͈̖̺͖̙̝̩̞̐̂̀͂̏̚͟͠L̸̡̩̣̲̣̜̊̑̾̾͊̃͘͜ͅ  ☆
@@ -1937,7 +1937,7 @@ def bot(op):
 
 
 """)
-                ki6.sendText(msg.to,"""     􀜁􀇔􏿿􀜁􀇔􏿿 KITSUNE BOT [KB] 􀜁􀇔􏿿􀜁􀇔􏿿  \n\n 􀜁􀇔􏿿 key Only Kicker 􀜁􀇔􏿿 \n\n􀜁􀇔􏿿[Kb6 in]\n􀜁􀇔􏿿[6Aditname:]\n􀜁􀇔􏿿[B Cancel]\n􀜁􀇔􏿿[kick @]\n􀜁􀇔􏿿[Ban @]\n􀜁􀇔􏿿[kill]\n􀜁􀇔􏿿[BotChat]\n􀜁􀇔􏿿[Respons]\n􀜁􀇔􏿿[Kb6 Gift]\n􀜁􀇔􏿿[Kb6 bye]\n\n     
+                ki6.sendText(msg.to,"""     􀜁􀇔􏿿􀜁􀇔􏿿 KITSUNE BOT [KB] 􀜁􀇔􏿿􀜁􀇔􏿿  \n\n 🍎 key Only Kicker 🍎 \n\n🍎[Kb6 in]\n🍎[6Aditname:]\n🍎[B Cancel]\n🍎[kick @]\n🍎[Ban @]\n🍎[kill]\n🍎[BotChat]\n🍎[Respons]\n🍎[Kb6 Gift]\n🍎[Kb6 bye]\n\n     
         
   
 ☆ Ķ͈̤̱͎̱̤̞̭͂̐͒́̀͗͞Ị̵̻̝̘͍͛̏̃͊̉͠ T̩͖͎̹̫͈̿̆̏́̑́S̤̲̯̤̹̲̲̘̏̋̈́̿͒ͅŲ̶̼̲̺̣̬̔̿͐̾̾͘Ṇ̶̨̛̲̭̝̲̝̪̎̾̈́͘͢͜͞É͎̱̺̜̐̀̿͘̕̕͢  B̴̡̛͈̖̺͖̙̝̩̞̐̂̀͂̏̚͟͠O̸̡̩̣̲̣̜̊̑̾̾͊̃͘͜ͅT Ç̵͔̟̫̰̮̺̟̥̂̋̂͋͐͛͑̔̚̚O̷̧̺̠̰̳̿́͆̕̕͠ͅ N̶͖̜̻̰͍̮̼̒́̐̑͒́̕ͅŢ̢̯̱͕̠͙̤̙̄̂͗̊̈́̕R̶̛̙̩̱̗̯͌̈͆̆Ơ̴̡͈̖̺͖̙̝̩̞̐̂̀͂̏̚͟͠L̸̡̩̣̲̣̜̊̑̾̾͊̃͘͜ͅ  ☆
