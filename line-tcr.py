@@ -39,74 +39,74 @@ sys.setdefaultencoding('utf-8')
 
 helpMessage ="""        =====[C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅ᴅ̶̲̅]=====
 
-􀜁􀇔􏿿 [Id]
-􀜁􀇔􏿿 [Mid]
-􀜁􀇔􏿿 [Me] 
-􀜁􀇔􏿿 [TL 「Text」
-􀜁􀇔􏿿 [MyName]
-􀜁􀇔􏿿 [I Gift]
-􀜁􀇔􏿿 [Mid 「mid」
-􀜁􀇔􏿿 [Group id]
-􀜁􀇔􏿿 [Group cancel]
-􀜁􀇔􏿿 [Tagall]
-􀜁􀇔􏿿 [แอบ]
-􀜁􀇔􏿿 [ส่อง]
-􀜁􀇔􏿿 [album 「id」]
-􀜁􀇔􏿿 [Hapus album 「id」
-􀜁􀇔􏿿 [Contact on] 
-􀜁􀇔􏿿 [Contact off] 
-􀜁􀇔􏿿 [Auto join on] 
-􀜁􀇔􏿿 [Auto join off] 
-􀜁􀇔􏿿 [Cancelall]
-􀜁􀇔􏿿 [Cleanse]
-􀜁􀇔􏿿 [Auto leave on] 
-􀜁􀇔􏿿 [Auto leave off]
-􀜁􀇔􏿿 [Auto add on/off] 
-􀜁􀇔􏿿 [Jam on]
-􀜁􀇔􏿿 [Jam off]
-􀜁􀇔􏿿 [Jam say]
-􀜁􀇔􏿿 [Up]
-􀜁􀇔􏿿 [Ban:on] 
-􀜁􀇔􏿿 [Unban:on]
-􀜁􀇔􏿿 [Banlist]
-􀜁􀇔􏿿 [Com on]
-􀜁􀇔􏿿 [Com set]
-􀜁􀇔􏿿 [Mcheck] 
-􀜁􀇔􏿿 [Message Confirmation] 
-􀜁􀇔􏿿 [Mybio: 「Isi Bio」]  
-􀜁􀇔􏿿 [Allbio: 「Isi Bio bot」] 
+🍎 [Id]
+🍎 [Mid]
+🍎 [Me] 
+🍎 [TL 「Text」
+🍎 [MyName]
+🍎 [I Gift]
+🍎 [Mid 「mid」
+🍎 [Group id]
+🍎 [Group cancel]
+🍎 [Tagall]
+🍎 [แอบ]
+🍎 [ส่อง]
+🍎 [album 「id」]
+🍎 [Hapus album 「id」
+🍎 [Contact on] 
+🍎 [Contact off] 
+🍎 [Auto join on] 
+🍎 [Auto join off] 
+🍎 [Cancelall]
+🍎 [Cleanse]
+🍎 [Auto leave on] 
+🍎 [Auto leave off]
+🍎 [Auto add on/off] 
+🍎 [Jam on]
+🍎 [Jam off]
+🍎 [Jam say]
+🍎 [Up]
+🍎 [Ban:on] 
+🍎 [Unban:on]
+🍎 [Banlist]
+🍎 [Com on]
+🍎 [Com set]
+🍎 [Mcheck] 
+🍎 [Message Confirmation] 
+🍎 [Mybio: 「Isi Bio」]  
+🍎 [Allbio: 「Isi Bio bot」] 
   
            [C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅ᴅ̶̲̅ ̶̲̅ɪ̶̲̅ɴ̶̲̅ ̶̲̅G̶̲̅ʀ̶̲̅ᴏ̶̲̅ᴜ̶̲̅ᴘ̶̲̅]
 
-􀜁􀇔􏿿 [Link on]
-􀜁􀇔􏿿 [Link off] 
-􀜁􀇔􏿿 [Invite「mid」] 
-􀜁􀇔􏿿 [Kmid: Kick by mid] 
-􀜁􀇔􏿿 [Ginfo] 
-􀜁􀇔􏿿 [Cancel]
-􀜁􀇔􏿿 [Backup]
-􀜁􀇔􏿿 [Gn 「Nama grup」
-􀜁􀇔􏿿 [Gurl]
-􀜁􀇔􏿿 [gurl「kelompok ID
-􀜁􀇔􏿿 [Nk「nama」]
-􀜁􀇔􏿿 [NK:]
-􀜁􀇔􏿿 [Ban:]
-􀜁􀇔􏿿 [Unban:]
-􀜁􀇔􏿿 [Protect on]
-􀜁􀇔􏿿 [qrprotect on/off]
-􀜁􀇔􏿿 [Inviteprotect on]
-􀜁􀇔􏿿 [Cancelprotect on]
-􀜁􀇔􏿿 [Staff add/remove @]
+🍎 [Link on]
+🍎 [Link off] 
+🍎 [Invite「mid」] 
+🍎 [Kmid: Kick by mid] 
+🍎 [Ginfo] 
+🍎 [Cancel]
+🍎 [Backup]
+🍎 [Gn 「Nama grup」
+🍎 [Gurl]
+🍎 [gurl「kelompok ID
+🍎 [Nk「nama」]
+🍎 [NK:]
+🍎 [Ban:]
+🍎 [Unban:]
+🍎 [Protect on]
+🍎 [qrprotect on/off]
+🍎 [Inviteprotect on]
+🍎 [Cancelprotect on]
+🍎 [Staff add/remove @]
 
 
             􀜁􀇔􏿿 Protect 􀜁􀇔􏿿
 
-􀜁􀇔􏿿 Kb all
-􀜁􀇔􏿿 Kb Key
-􀜁􀇔􏿿 Kb1-6 in
-􀜁􀇔􏿿 Kb1-6 bye
-􀜁􀇔􏿿 Respons
-􀜁􀇔􏿿 Bye all        
+🍎 Kb all
+🍎 Kb Key
+🍎 Kb1-6 in
+🍎 Kb1-6 bye
+🍎 Respons
+🍎 Bye all        
   
             ✯==== Creator ====✯
 	
@@ -1250,8 +1250,8 @@ def bot(op):
 	    elif msg.text == "แอบ":
                     cl.sendText(msg.to, "hmm..")
                     ki.sendText(msg.to, "Coba..")
-                    kk.sendText(msg.to, "aku mau..")
-                    kc.sendText(msg.to, "Check sider..")
+                    ki2.sendText(msg.to, "aku mau..")
+                    ki3.sendText(msg.to, "Check sider..")
                     try:
                         del wait2['readPoint'][msg.to]
                         del wait2['readMember'][msg.to]
@@ -1283,8 +1283,8 @@ def bot(op):
                     _nametarget = _name.rstrip('  ')
                     gs = cl.getGroup(msg.to)
                     gs = ki.getGroup(msg.to)
-                    gs = kk.getGroup(msg.to)
-                    gs = kc.getGroup(msg.to)
+                    gs = ki2.getGroup(msg.to)
+                    gs = ki3.getGroup(msg.to)
                     targets = []
                     for g in gs.members:
                         if _nametarget == g.displayName:
@@ -1310,8 +1310,8 @@ def bot(op):
                     _nametarget = _name.rstrip('  ')
                     gs = cl.getGroup(msg.to)
                     gs = ki.getGroup(msg.to)
-                    gs = kk.getGroup(msg.to)
-                    gs = kc.getGroup(msg.to)
+                    gs = ki2.getGroup(msg.to)
+                    gs = ki3.getGroup(msg.to)
                     targets = []
                     for g in gs.members:
                         if _nametarget == g.displayName:
@@ -1337,8 +1337,8 @@ def bot(op):
                     _nametarget = _name.rstrip('  ')
                     gs = cl.getGroup(msg.to)
                     gs = ki.getGroup(msg.to)
-                    gs = kk.getGroup(msg.to)
-                    gs = kc.getGroup(msg.to)
+                    gs = ki2.getGroup(msg.to)
+                    gs = ki3.getGroup(msg.to)
                     targets = []
                     for g in gs.members:
                         if _nametarget == g.displayName:
@@ -1357,15 +1357,15 @@ def bot(op):
                     cl.sendText(msg.to,"Command denied.")
                     cl.sendText(msg.to,"Admin permission required.")
 
-            elif "ลบ@" in msg.text:
+            elif "1ลบ@" in msg.text:
                 if msg.from_ in admin:
                     print "[Command]Staff remove executing"
                     _name = msg.text.replace("Remove staff @","")
                     _nametarget = _name.rstrip('  ')
                     gs = cl.getGroup(msg.to)
                     gs = ki.getGroup(msg.to)
-                    gs = kk.getGroup(msg.to)
-                    gs = kc.getGroup(msg.to)
+                    gs = ki2.getGroup(msg.to)
+                    gs = ki3.getGroup(msg.to)
                     targets = []
                     for g in gs.members:
                         if _nametarget == g.displayName:
@@ -1670,7 +1670,7 @@ def bot(op):
 #-----------------------------------------------
 
 #-----------------------------------------------
-            elif msg.text.lower() == 'keluarga berencana come':
+            elif msg.text.lower() == '*ทีม':
                         G = cl.getGroup(msg.to)
                         ginfo = cl.getGroup(msg.to)
                         G.preventJoinByTicket = False
@@ -1832,11 +1832,11 @@ def bot(op):
                         G.preventJoinByTicket(G)
                         ki6.updateGroup(G)
 #-----------------------------------------------
-            elif msg.text.lower() == 'keluarga berencana pulang':
+            elif msg.text.lower() == '*ลาก่อน':
                 if msg.toType == 2:
                     ginfo = cl.getGroup(msg.to)
                     try:
-                        cl.sendText(msg.to,"􀜁􀇔􏿿Bye Bye😘 "  +  str(ginfo.name)  + "")
+                        cl.sendText(msg.to,"🖐️ลา ก่อย ลา ก่อย 🤐"  +  str(ginfo.name)  + "")
                         ki.leaveGroup(msg.to)
                         ki2.leaveGroup(msg.to)
                         ki3.leaveGroup(msg.to)
