@@ -808,7 +808,7 @@ def bot(op):
                     else:
                         cl.sendText(msg.to,"sudah dimatikan ô€œô€„‰👈")
                 else:
-                    wait["linkprotect"] = False
+                    wait["cancelprotect"] = False
                     if wait["lang"] == "JP":
                         cl.sendText(msg.to,"already close")
                     else:
@@ -1015,7 +1015,7 @@ def bot(op):
                 gid = ki3.getGroupIdsJoined()
                 gid = ki4.getGroupIdsJoined()
                 gid = ki5.getGroupIdsJoined()
-                gid = ki6.getGroupIdsJoined()
+                gid = ki6.getGroupIdsJoined()i
                 for i in gid:
                     ki.leaveGroup(i)
                     ki2.leaveGroup(i)
