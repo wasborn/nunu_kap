@@ -1246,22 +1246,23 @@ def bot(op):
                         	    gs.preventJoinByTicket = True
                         	    cl.updateGroup(gs)
                                     gs.preventJoinByTicket(gs)
-                        	    cl.updateGroup(gs)
-	    elif msg.text == "แอบ":
-                    cl.sendText(msg.to, "hmm..")
-                    ki.sendText(msg.to, "Coba..")
-                    ki2.sendText(msg.to, "aku mau..")
-                    ki3.sendText(msg.to, "Check sider..")
+                        	    cl.updateGroup(gs)	
+         
+#=================================================
+            elif msg.text == "นับ":
+                    cl.sendText(msg.to, "!โปรดรอ..กรุณาพิมพ์ อ่าน")
                     try:
                         del wait2['readPoint'][msg.to]
                         del wait2['readMember'][msg.to]
                     except:
-                        pass
+                           pass
+                    now2 = datetime.now()
                     wait2['readPoint'][msg.to] = msg.id
                     wait2['readMember'][msg.to] = ""
+                    wait2['setTime'][msg.to] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                     wait2['ROM'][msg.to] = {}
                     print wait2
-            elif msg.text == "ส่อง":
+            elif msg.text == "อ่าน":
                     if msg.to in wait2['readPoint']:
                         if wait2["ROM"][msg.to].items() == []:
                             chiya = ""
@@ -1270,11 +1271,11 @@ def bot(op):
                             for rom in wait2["ROM"][msg.to].items():
                                 print rom
                                 chiya += rom[1] + "\n"
-
-                        cl.sendText(msg.to, "== Bakekok Sider == %s\nthat's it\n\nPeople who have ignored reads\n%skampret lo sider. ♪\n\nReading point creation date n time:\n[%s]"  % (wait2['readMember'][msg.to],chiya,setTime[msg.to]))
+                        cl.sendText(msg.to, "╔═══════════════%s\n╠════════════════\n%s╠═══════════════\n║Readig point creation:\n║ [%s]\n╚════════════════"  % (wait2['readMember'][msg.to],chiya,setTime[msg.to]))
                     else:
-                        cl.sendText(msg.to, "An already read point has not been set.\n「set」you can send ♪ read point will be created ♪")					
-	
+                        cl.sendText(msg.to, "Ketik Lurking dulu dudul Baru bilang result Point.")
+						
+#========================================
 #-----------------------[Add Staff Section]------------------------
             elif "เพิ่ม@" in msg.text:
                 if msg.from_ in admin:
