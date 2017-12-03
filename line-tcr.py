@@ -1015,7 +1015,7 @@ def bot(op):
                 gid = ki3.getGroupIdsJoined()
                 gid = ki4.getGroupIdsJoined()
                 gid = ki5.getGroupIdsJoined()
-                gid = ki6.getGroupIdsJoined()i
+                gid = ki6.getGroupIdsJoined()
                 for i in gid:
                     ki.leaveGroup(i)
                     ki2.leaveGroup(i)
